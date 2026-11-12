@@ -99,6 +99,10 @@
    "hold a silver ring to the face",
    "let him in no wise approach too near; the magical ring near the face defends"
   ],
+  "naturae": [
+   "VISIO",
+   "SCIENTIA"
+  ],
   "ex": {
    "superbia": [
     "rank duke (Sloane 3825 via the register)"
@@ -114,6 +118,12 @@
     "base"
    ]
   }
+ },
+ "ordo": {
+  "quarter": "South",
+  "quarter_witness": "F",
+  "rex": "Corson",
+  "princeps": false
  },
  "fons": {
   "register": "Annulus docs/registers/goetia.json",

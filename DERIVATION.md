@@ -20,6 +20,18 @@ Every value is a range `[low, high]` between 0 and 1. Spiri72 draws a fresh valu
 4. **reticentia** (withholding): 0.1–0.3; 0.2–0.4 when the witnesses are silent on his truthfulness; 0.6–0.8 when they say he will not be understood or will not answer unless compelled or given offerings.
 5. **ira_adventus**: lines of malice or of the Goetia text that speak of fury or terror.
 6. **cultus**, **munera**, **coercitio**: the counterbalances that ask for honour, gifts, or compulsion, quoted.
+7. **naturae** (what he was made to do): his first one or two natures, ranked by how many of his own offices fall under each, ties to the office listed first. This is an original reading, not the witnesses'. It follows the idea that a fallen angel still sees everything through the task he was made for, bent but not erased by the Fall:
+   - SCIENTIA (making known): DOCTRINA, LINGUAE, RESPONSA, MENS, PROBATIO
+   - VISIO (seeing the hidden, past and to come): FUTURA, PRAETERITA, PRAESENTIA, OCCULTA, THESAURI, AMISSA, FURTUM, VIRTUTES
+   - VINCULUM (binding and loosing hearts): CONCORDIA, DISCORDIA, FAMILIARES, DIGNITATES, APPELLATIO
+   - FORMA (working on matter): AEDIFICATIO, TRANSMUTATIO, VECTIO, INVISIBILITAS, ILLUSIO, TEMPESTAS, EVERSIO, CONSECRATIO
+   - LIMEN (the threshold of the body): MORBUS, NEX, MORTUI, LONGAEVITAS, TUTELA, CUSTODIA
+
+   Spiri72 voices the first nature whole, or as the Fall bent it when his ill will runs high. The second is always voiced whole.
+
+## Ordo: his place in the Solomonic order
+
+`ordo` holds his quarter and its king from the Annulus registers (`reges.json`, goetic rite, the Sloane spelling first), and whether the Goetia names him among the chiefs ("Belial, Bileth, Asmoday, and Gaap"). Spiri72 tells every spirit the order Solomon set: God above all, then kings, princes, dukes, marquises, earls, presidents and knights. The Operator holds no place in that order, only the Names.
 
 ## 3. Status: what passes between a spirit and an Operator
 

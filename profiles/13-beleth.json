@@ -103,6 +103,9 @@
    "if he will not enter, rehearse the Bonds and Charms; then he obeys",
    "a silver ring on the middle finger of the left hand, held against the face"
   ],
+  "naturae": [
+   "VINCULUM"
+  ],
   "ex": {
    "superbia": [
     "rank king (Sloane 3825 via the register)",
@@ -119,6 +122,12 @@
     "the witnesses are silent on his truthfulness"
    ]
   }
+ },
+ "ordo": {
+  "quarter": null,
+  "quarter_witness": null,
+  "rex": null,
+  "princeps": true
  },
  "fons": {
   "register": "Annulus docs/registers/goetia.json",

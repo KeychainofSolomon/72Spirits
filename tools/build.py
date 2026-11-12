@@ -50,6 +50,46 @@ OFFERING = re.compile(r"offering|sacrifice|gift", re.I)
 COMPULSION = re.compile(r"compel|constrain|unless|bonds|triangle|ring", re.I)
 
 
+# Natures (DERIVATION.md section 2.7): what each spirit was made to do,
+# read from the kinds of his own offices. An original reading, not the
+# witnesses': the names are functions, never anyone else's terms.
+NATURAE = {
+    "SCIENTIA": {"DOCTRINA", "LINGUAE", "RESPONSA", "MENS", "PROBATIO"},
+    "VISIO": {"FUTURA", "PRAETERITA", "PRAESENTIA", "OCCULTA", "THESAURI", "AMISSA", "FURTUM", "VIRTUTES"},
+    "VINCULUM": {"CONCORDIA", "DISCORDIA", "FAMILIARES", "DIGNITATES", "APPELLATIO"},
+    "FORMA": {"AEDIFICATIO", "TRANSMUTATIO", "VECTIO", "INVISIBILITAS", "ILLUSIO", "TEMPESTAS", "EVERSIO", "CONSECRATIO"},
+    "LIMEN": {"MORBUS", "NEX", "MORTUI", "LONGAEVITAS", "TUTELA", "CUSTODIA"},
+}
+# "Of whom Belial, Bileth, Asmoday, and Gaap, were Chief" (Goetia).
+PRINCIPES = {68, 13, 32, 33}
+
+
+def naturae(offices):
+    count = {}
+    for i, o in enumerate(offices):
+        for name, kinds in NATURAE.items():
+            if o["kind"] in kinds:
+                c, first = count.get(name, (0, i))
+                count[name] = (c + 1, first)
+    ranked = sorted(count, key=lambda k: (-count[k][0], count[k][1]))
+    return ranked[:2]
+
+
+def ordo(e, reges):
+    q = (e.get("quarter") or {}).get("value")
+    rex = None
+    for r in reges:
+        if r.get("rite") == "goetia" and r.get("quarter") == q:
+            names = [x["text"] for x in r.get("names", []) if "S" in x.get("witness", "")]
+            rex = (names or [r["names"][0]["text"]])[0]
+    return {
+        "quarter": q,
+        "quarter_witness": (e.get("quarter") or {}).get("witness"),
+        "rex": rex,
+        "princeps": e["n"] in PRINCIPES,
+    }
+
+
 def clamp(lo, hi):
     return [round(max(0.0, lo), 2), round(min(1.0, hi), 2)]
 
@@ -136,6 +176,7 @@ def derive(e, goetia_text):
             if OFFERING.search(t)
         ],
         "coercitio": [c["text"] for c in e["counterbalances"] if COMPULSION.search(c["text"])],
+        "naturae": naturae(e["offices"]),
         "ex": ex,
     }
 
@@ -158,6 +199,7 @@ def main():
     if len(register) != 72:
         sys.exit("the register does not hold 72 spirits")
     goetia = goetia_entries(htm_path)
+    reges = json.loads((Path(reg_path).parent / "reges.json").read_text(encoding="utf-8"))
     (ROOT / "fontes").mkdir(exist_ok=True)
     (ROOT / "fontes" / "goetia.json").write_text(
         json.dumps(
@@ -192,6 +234,7 @@ def main():
             "essentia": {k: v for k, v in e.items() if k not in ("n", "name")},
             "goetia": {"textus": g, "forma": forma(g)},
             "ingenium": derive(e, g),
+            "ordo": ordo(e, reges),
             "fons": fons,
         }
         (pdir / f"{n:02d}-{p['label']}.json").write_text(

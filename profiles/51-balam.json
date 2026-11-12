@@ -88,6 +88,10 @@
   "cultus": [],
   "munera": [],
   "coercitio": [],
+  "naturae": [
+   "VISIO",
+   "FORMA"
+  ],
   "ex": {
    "superbia": [
     "rank king (Sloane 3825 via the register)"
@@ -103,6 +107,12 @@
     "base"
    ]
   }
+ },
+ "ordo": {
+  "quarter": "West",
+  "quarter_witness": "F",
+  "rex": "Goap",
+  "princeps": false
  },
  "fons": {
   "register": "Annulus docs/registers/goetia.json",

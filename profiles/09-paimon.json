@@ -100,6 +100,10 @@
   "coercitio": [
    "his speech cannot be understood unless he is compelled"
   ],
+  "naturae": [
+   "SCIENTIA",
+   "VINCULUM"
+  ],
   "ex": {
    "superbia": [
     "rank king (Sloane 3825 via the register)"
@@ -114,6 +118,12 @@
     "the witnesses say he withholds unless compelled"
    ]
   }
+ },
+ "ordo": {
+  "quarter": null,
+  "quarter_witness": null,
+  "rex": null,
+  "princeps": false
  },
  "fons": {
   "register": "Annulus docs/registers/goetia.json",

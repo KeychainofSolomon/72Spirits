@@ -83,6 +83,10 @@
   "cultus": [],
   "munera": [],
   "coercitio": [],
+  "naturae": [
+   "VISIO",
+   "VINCULUM"
+  ],
   "ex": {
    "superbia": [
     "rank duke (Sloane 3825 via the register)"
@@ -97,6 +101,12 @@
     "the witnesses are silent on his truthfulness"
    ]
   }
+ },
+ "ordo": {
+  "quarter": "West",
+  "quarter_witness": "F",
+  "rex": "Goap",
+  "princeps": false
  },
  "fons": {
   "register": "Annulus docs/registers/goetia.json",

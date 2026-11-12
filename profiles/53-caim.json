@@ -76,6 +76,10 @@
   "cultus": [],
   "munera": [],
   "coercitio": [],
+  "naturae": [
+   "SCIENTIA",
+   "VISIO"
+  ],
   "ex": {
    "superbia": [
     "rank president (Sloane 3825 via the register)"
@@ -91,6 +95,12 @@
     "base"
    ]
   }
+ },
+ "ordo": {
+  "quarter": null,
+  "quarter_witness": null,
+  "rex": null,
+  "princeps": false
  },
  "fons": {
   "register": "Annulus docs/registers/goetia.json",
