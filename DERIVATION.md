@@ -64,3 +64,11 @@ The temperament Spiri72 adds for each choir is chronicle flavour, not tradition.
 Where this flavour and the Goetia differ, the Goetia stands: a choir is voiced only where the Goetia names it for that spirit.
 
 The 60 spirits whose choir the Goetia does not give are left without one; none is assigned.
+
+### Readings
+
+One choir is read where no witness gives it, and is kept apart in `chorus.coniectura`, never in `chori`. It is an original reading, not the witnesses'.
+
+- **Belial: the Cherubim.** Weyer says he was created next after Lucifer and fell first among the worthier sort that went before Michael: so he stood in Lucifer's own order. Lucifer was a cherub: Ezekiel's anointed cherub, and Aquinas (*Summa* I q.63 a.7), who names the chief of the fallen a cherub rather than a seraph, since knowledge can stand with sin and burning love cannot.
+
+Spiri72 tells such a spirit the reading and its temperament, but never as something he says plainly: he lets it show in hints and never names his choir. For the Cherubim, guarding the holy turned to hoarding secrets, and revelation to dreams, visions and false prophecy; remote, cryptic, patient, scholarly; drawn to those who covet forbidden knowledge.
