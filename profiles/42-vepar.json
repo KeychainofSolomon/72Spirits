@@ -1,0 +1,103 @@
+{
+ "schema": "72spirits/1",
+ "n": 42,
+ "name": "Vepar",
+ "label": "vepar",
+ "essentia": {
+  "aliases": [
+   "Separ",
+   "Vephar"
+  ],
+  "rank": "duke",
+  "rank_variants": null,
+  "legions": 29,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "VECTIO",
+    "witness": "W",
+    "text": "governs waters and guides ships laden with arms"
+   },
+   {
+    "kind": "TEMPESTAS",
+    "witness": "G",
+    "text": "makes the seas stormy and appear full of ships"
+   },
+   {
+    "kind": "MORBUS",
+    "witness": "W",
+    "text": "kills men in three days by festering wounds and worms"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "kills by festering wounds"
+   }
+  ],
+  "counterbalances": [
+   {
+    "witness": "W",
+    "text": "all of it can be healed with care"
+   }
+  ],
+  "notes": [],
+  "quarter": {
+   "value": "East",
+   "witness": "F"
+  }
+ },
+ "goetia": {
+  "textus": "(42.) Vepar. —The Forty-second Spirit is Vepar, or Vephar. He is a Duke Great and Strong and appeareth like a Mermaid. His office is to govern the Waters, and to guide Ships laden with Arms, Armour, and Ammunition, etc., thereon. And at the request of the Exorcist he can cause the seas to be right stormy and to appear full of ships. Also he maketh men to die in Three Days by Putrefying Wounds or Sores, and causing Worms to breed in them. He governeth 29 Legions of Spirits, and his Seal is this, etc.",
+  "forma": [
+   "He is a Duke Great and Strong and appeareth like a Mermaid.",
+   "And at the request of the Exorcist he can cause the seas to be right stormy and to appear full of ships."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.2,
+   0.4
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "malice: kills by festering wounds"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

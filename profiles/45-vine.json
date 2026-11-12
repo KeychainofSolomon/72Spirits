@@ -1,0 +1,117 @@
+{
+ "schema": "72spirits/1",
+ "n": 45,
+ "name": "Vine",
+ "label": "vine",
+ "essentia": {
+  "aliases": [
+   "Vinea",
+   "Viné"
+  ],
+  "rank": "king/earl",
+  "rank_variants": null,
+  "legions": 35,
+  "legions_witness": "S",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "OCCULTA",
+    "witness": "W",
+    "text": "reveals hidden things and witchcraft"
+   },
+   {
+    "kind": "PRAETERITA",
+    "witness": "W",
+    "text": "things past"
+   },
+   {
+    "kind": "PRAESENTIA",
+    "witness": "W",
+    "text": "things present"
+   },
+   {
+    "kind": "FUTURA",
+    "witness": "W",
+    "text": "things to come"
+   },
+   {
+    "kind": "AEDIFICATIO",
+    "witness": "W",
+    "text": "builds towers and stone houses"
+   },
+   {
+    "kind": "EVERSIO",
+    "witness": "G",
+    "text": "overthrows great stone walls"
+   },
+   {
+    "kind": "TEMPESTAS",
+    "witness": "W",
+    "text": "makes rivers swell (rivos reddit turgidos)"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "S",
+    "text": "Weyer gives no legion count; Sloane 35, 1904 36"
+   }
+  ],
+  "quarter": {
+   "value": "North",
+   "witness": "F"
+  }
+ },
+ "goetia": {
+  "textus": "(45.) Viné. —The Forty-fifth Spirit is Viné, or Vinea. He is a Great King, and an Earl; and appeareth in the Form of a Lion, riding upon a Black Horse, and bearing a Viper in his hand. His Office is to discover Things Hidden, Witches, Wizards, and Things Present, Past, and to Come. He, at the command of the Exorcist will build Towers, overthrow Great Stone Walls, and make the Waters rough with Storms. He governeth 36 Legions of Spirits. And his Seal is this, which wear thou, as aforesaid, etc.",
+  "forma": [
+   "He is a Great King, and an Earl; and appeareth in the Form of a Lion, riding upon a Black Horse, and bearing a Viper in his hand."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.8,
+   1.0
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank king/earl (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

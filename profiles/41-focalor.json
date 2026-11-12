@@ -1,0 +1,103 @@
+{
+ "schema": "72spirits/1",
+ "n": 41,
+ "name": "Focalor",
+ "label": "focalor",
+ "essentia": {
+  "aliases": [
+   "Forcalor",
+   "Furcalor"
+  ],
+  "rank": "duke",
+  "rank_variants": null,
+  "legions": 30,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "NEX",
+    "witness": "W",
+    "text": "slays men and drowns them; overthrows ships of war"
+   },
+   {
+    "kind": "TEMPESTAS",
+    "witness": "W",
+    "text": "power over winds and seas"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "slays and drowns"
+   }
+  ],
+  "counterbalances": [
+   {
+    "witness": "W",
+    "text": "harms no one if so commanded"
+   }
+  ],
+  "notes": [
+   {
+    "witness": "W",
+    "text": "hopes to return to the Seventh Throne after 1000 years; Weyer says he is deceived"
+   },
+   {
+    "witness": "S",
+    "text": "Sloane's legion count reads 3; Weyer's 30 decides"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(41.) Focalor. —The Forty-first Spirit is Focalor, or Forcalor, or Furcalor. He is a Mighty Duke and Strong. He appeareth in the Form of a Man with Gryphon’s Wings. His office is to slay Men, and to drown them in the Waters, and to overthrow Ships of War, for he hath Power over both Winds and Seas; but he will not hurt any man or thing if he be commanded to the contrary by the Exorcist. He also hath hopes to return to the Seventh Throne after 1,000 years. He governeth 30 Legions of Spirits, and his Seal is this, etc.",
+  "forma": [
+   "He appeareth in the Form of a Man with Gryphon’s Wings."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.2,
+   0.4
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "malice: slays and drowns"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

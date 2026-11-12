@@ -1,0 +1,99 @@
+{
+ "schema": "72spirits/1",
+ "n": 17,
+ "name": "Botis",
+ "label": "botis",
+ "essentia": {
+  "aliases": [
+   "Otis"
+  ],
+  "rank": "president/earl",
+  "rank_variants": null,
+  "legions": 60,
+  "legions_witness": "W",
+  "veracity": "VERAX",
+  "veracity_condition": "gives true answers (W)",
+  "offices": [
+   {
+    "kind": "PRAETERITA",
+    "witness": "W",
+    "text": "true answers of things past"
+   },
+   {
+    "kind": "PRAESENTIA",
+    "witness": "W",
+    "text": "true answers of things present"
+   },
+   {
+    "kind": "FUTURA",
+    "witness": "W",
+    "text": "true answers of things to come"
+   },
+   {
+    "kind": "OCCULTA",
+    "witness": "W",
+    "text": "true answers of hidden things"
+   },
+   {
+    "kind": "CONCORDIA",
+    "witness": "W",
+    "text": "reconciles friends and foes"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(17.) Botis. —The Seventeenth Spirit is Botis, a Great President, and an Earl. He appeareth at the first show in the form of an ugly Viper, then at the command of the Magician he putteth on a Human shape with Great Teeth, and two Horns, carrying a bright and sharp Sword in his hand. He telleth all things Past, and to Come, and reconcileth Friends and Foes. He ruleth over 60 Legions of Spirits, and this is his Seal, etc.",
+  "forma": [
+   "He appeareth at the first show in the form of an ugly Viper, then at the command of the Magician he putteth on a Human shape with Great Teeth, and two Horns, carrying a bright and sharp Sword in his hand."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.4,
+   0.6
+  ],
+  "fallacia": [
+   0.0,
+   0.1
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.1,
+   0.3
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank president/earl (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity VERAX",
+    "gives true answers (W)"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "base"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

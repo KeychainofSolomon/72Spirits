@@ -1,0 +1,90 @@
+{
+ "schema": "72spirits/1",
+ "n": 65,
+ "name": "Andrealphus",
+ "label": "andrealphus",
+ "essentia": {
+  "aliases": [
+   "Androalphus"
+  ],
+  "rank": "marquis",
+  "rank_variants": null,
+  "legions": 30,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "teaches geometry and measurement; makes men subtle disputers and skilled in astronomy"
+   },
+   {
+    "kind": "TRANSMUTATIO",
+    "witness": "W",
+    "text": "transforms men into birds"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "G",
+    "text": "appears with great noises, as a peacock"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(65.) Andrealphus. —The Sixty-fifth Spirit is Andrealphus. He is a Mighty Marquis, appearing at first in the form of a Peacock, with great Noises. But after a time he putteth on Human shape. He can teach Geometry perfectly. He maketh Men very subtle therein; and in all Things pertaining unto Mensuration or Astronomy. He can transform a Man into the Likeness of a Bird. He governeth 30 Legions of Infernal Spirits, and his Seal is this, etc.",
+  "forma": [
+   "He is a Mighty Marquis, appearing at first in the form of a Peacock, with great Noises.",
+   "But after a time he putteth on Human shape.",
+   "He can transform a Man into the Likeness of a Bird."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.5,
+   0.7
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank marquis (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

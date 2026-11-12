@@ -1,0 +1,90 @@
+{
+ "schema": "72spirits/1",
+ "n": 6,
+ "name": "Valefor",
+ "label": "valefor",
+ "essentia": {
+  "aliases": [
+   "Valefar",
+   "Malaphar"
+  ],
+  "rank": "duke",
+  "rank_variants": null,
+  "legions": 10,
+  "legions_witness": "W",
+  "veracity": "MENDAX",
+  "veracity_condition": "deceives by familiarity (W); no condition that compels him is stated",
+  "offices": [
+   {
+    "kind": "FAMILIARES",
+    "witness": "G",
+    "text": "is a good familiar"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "deceives by familiarity until those he serves are brought to the gallows"
+   },
+   {
+    "witness": "G",
+    "text": "tempts them he is familiar to, to steal"
+   }
+  ],
+  "counterbalances": [],
+  "notes": [],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(6.) Valefor. —The Sixth Spirit is Valefor. He is a mighty Duke, and appeareth in the shape of a Lion with an Ass’s Head, bellowing. He is a good Familiar, but tempteth them he is a familiar of to steal. He governeth 10 Legions of Spirits. His Seal is this, which is to be worn, whether thou wilt have him for a Familiar, or not.",
+  "forma": [
+   "He is a mighty Duke, and appeareth in the shape of a Lion with an Ass’s Head, bellowing."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.7,
+   0.9
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.4,
+   0.6
+  ],
+  "reticentia": [
+   0.1,
+   0.3
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity MENDAX",
+    "deceives by familiarity (W); no condition that compels him is stated"
+   ],
+   "hostilitas": [
+    "malice: deceives by familiarity until those he serves are brought to the gallows",
+    "malice: tempts them he is familiar to, to steal"
+   ],
+   "reticentia": [
+    "base"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

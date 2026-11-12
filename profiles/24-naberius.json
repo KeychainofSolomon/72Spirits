@@ -1,0 +1,98 @@
+{
+ "schema": "72spirits/1",
+ "n": 24,
+ "name": "Naberius",
+ "label": "naberius",
+ "essentia": {
+  "aliases": [
+   "Naberus",
+   "Cerberus"
+  ],
+  "rank": "marquis",
+  "rank_variants": null,
+  "legions": 19,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "makes a man cunning in all arts, especially rhetoric"
+   },
+   {
+    "kind": "EVERSIO",
+    "witness": "W",
+    "text": "procures the loss of prelacies and dignities (prelaturarum et dignitatum iacturam parit)"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "procures the loss of dignities"
+   }
+  ],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "W",
+    "text": "1904: 'restoreth lost dignities and honours', which contradicts Weyer; Weyer prevails"
+   },
+   {
+    "witness": "G",
+    "text": "hoarse voice; flutters about the Circle"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(24.) Naberius. —The Twenty-fourth Spirit is Naberius. He is a most valiant Marquis, and showeth in the form of a Black Crane, fluttering about the Circle, and when he speaketh it is with a hoarse voice. He maketh men cunning in all Arts and Sciences, but especially in the Art of Rhetoric. He restoreth lost Dignities and Honours. He governeth 19 Legions of Spirits. His Seal is this, which is to be worn, etc.",
+  "forma": [
+   "He is a most valiant Marquis, and showeth in the form of a Black Crane, fluttering about the Circle, and when he speaketh it is with a hoarse voice."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.5,
+   0.7
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.2,
+   0.4
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank marquis (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "malice: procures the loss of dignities"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

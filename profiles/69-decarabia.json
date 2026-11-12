@@ -1,0 +1,93 @@
+{
+ "schema": "72spirits/1",
+ "n": 69,
+ "name": "Decarabia",
+ "label": "decarabia",
+ "essentia": {
+  "aliases": [],
+  "rank": "marquis",
+  "rank_variants": "king and earl (W)",
+  "legions": 30,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "VIRTUTES",
+    "witness": "W",
+    "text": "knows the virtues of herbs and stones"
+   },
+   {
+    "kind": "ILLUSIO",
+    "witness": "W",
+    "text": "makes birds fly before the exorcist and stay with him, singing and drinking like natural birds"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "S",
+    "text": "appears as a star in a pentacle"
+   },
+   {
+    "witness": "S",
+    "text": "'being himself a great Marquis'"
+   }
+  ],
+  "quarter": {
+   "value": "South",
+   "witness": "F"
+  }
+ },
+ "goetia": {
+  "textus": "(69.) Decarabia. —The Sixty-ninth Spirit is Decarabia. He appeareth in the Form of a Star in a Pentacle, at first; but after, at the command of the Exorcist, he putteth on the image of a Man. His Office is to discover the Virtues of Birds and Precious Stones, and to make the Similitude of all kinds of Birds to fly before the Exorcist, singing and drinking as natural Birds do. He governeth 30 Legions of Spirits, being himself a Great Marquis. And this is his Seal, which is to be worn, etc.",
+  "forma": [
+   "He appeareth in the Form of a Star in a Pentacle, at first; but after, at the command of the Exorcist, he putteth on the image of a Man."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.5,
+   0.7
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank marquis (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

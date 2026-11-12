@@ -1,0 +1,96 @@
+{
+ "schema": "72spirits/1",
+ "n": 14,
+ "name": "Leraje",
+ "label": "leraje",
+ "essentia": {
+  "aliases": [
+   "Loray",
+   "Oray",
+   "Leraie",
+   "Leraikha"
+  ],
+  "rank": "marquis",
+  "rank_variants": null,
+  "legions": 30,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "DISCORDIA",
+    "witness": "W",
+    "text": "author of all battles and contests"
+   },
+   {
+    "kind": "MORBUS",
+    "witness": "W",
+    "text": "makes wounds made by archers' arrows fester"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "battles; festering wounds"
+   }
+  ],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "G",
+    "text": "belongs unto Sagittarius"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(14.) Leraje , or Leraikha .—The Fourteenth Spirit is called Leraje (or Leraie). He is a Marquis Great in Power, showing himself in the likeness of an Archer clad in Green, and carrying a Bow and Quiver. He causeth all great Battles and Contests; and maketh wounds to putrefy that are made with Arrows by Archers. This belongeth unto Sagittary. He governeth 30 Legions of Spirits, and this is his Seal, etc.",
+  "forma": [
+   "He is a Marquis Great in Power, showing himself in the likeness of an Archer clad in Green, and carrying a Bow and Quiver."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.5,
+   0.7
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.2,
+   0.4
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank marquis (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "malice: battles; festering wounds"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

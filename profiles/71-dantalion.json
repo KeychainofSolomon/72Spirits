@@ -1,0 +1,101 @@
+{
+ "schema": "72spirits/1",
+ "n": 71,
+ "name": "Dantalion",
+ "label": "dantalion",
+ "essentia": {
+  "aliases": [],
+  "rank": "duke",
+  "rank_variants": null,
+  "legions": 36,
+  "legions_witness": "S",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "DOCTRINA",
+    "witness": "G",
+    "text": "teaches all arts and sciences"
+   },
+   {
+    "kind": "MENS",
+    "witness": "G",
+    "text": "declares the secret counsel of anyone; knows the thoughts of all, and can change them at his will"
+   },
+   {
+    "kind": "CONCORDIA",
+    "witness": "G",
+    "text": "causes love"
+   },
+   {
+    "kind": "ILLUSIO",
+    "witness": "G",
+    "text": "shows the similitude of any person in a vision, wherever they are"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "G",
+    "text": "changes thoughts at his will"
+   }
+  ],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "W",
+    "text": "absent from Weyer"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(71.) Dantalion. —The Seventy-first Spirit is Dantalion. He is a Duke Great and Mighty, appearing in the Form of a Man with many Countenances, all Men’s and Women’s Faces; and he hath a Book in his right hand. His Office is to teach all Arts and Sciences unto any; and to declare the Secret Counsel of any one; for he knoweth the Thoughts of all Men and Women, and can change them at his Will. He can cause Love, and show the Similitude of any person, and show the same by a Vision, let them be in what part of the World they Will. He governeth 36 Legions of Spirits; and this is his Seal, which wear thou, etc.",
+  "forma": [
+   "He is a Duke Great and Mighty, appearing in the Form of a Man with many Countenances, all Men’s and Women’s Faces; and he hath a Book in his right hand."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.2,
+   0.4
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "malice: changes thoughts at his will"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

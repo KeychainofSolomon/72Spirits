@@ -1,0 +1,84 @@
+{
+ "schema": "72spirits/1",
+ "n": 18,
+ "name": "Bathin",
+ "label": "bathin",
+ "essentia": {
+  "aliases": [
+   "Bathym",
+   "Marthim"
+  ],
+  "rank": "duke",
+  "rank_variants": null,
+  "legions": 30,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "VIRTUTES",
+    "witness": "W",
+    "text": "knows the virtues of herbs and precious stones"
+   },
+   {
+    "kind": "VECTIO",
+    "witness": "W",
+    "text": "carries men swiftly from one country to another"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(18.) Bathin. —The Eighteenth Spirit is Bathin. He is a Mighty and Strong Duke, and appeareth like a Strong Man with the tail of a Serpent, sitting upon a Pale-Coloured Horse. He knoweth the Virtues of Herbs and Precious Stones, and can transport men suddenly from one country to another. He ruleth over 30 Legions of Spirits. His Seal is this which is to be worn as aforesaid.",
+  "forma": [
+   "He is a Mighty and Strong Duke, and appeareth like a Strong Man with the tail of a Serpent, sitting upon a Pale-Coloured Horse."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

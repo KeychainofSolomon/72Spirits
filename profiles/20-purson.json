@@ -1,0 +1,123 @@
+{
+ "schema": "72spirits/1",
+ "n": 20,
+ "name": "Purson",
+ "label": "purson",
+ "essentia": {
+  "aliases": [
+   "Pursan",
+   "Curson"
+  ],
+  "rank": "king",
+  "rank_variants": null,
+  "legions": 22,
+  "legions_witness": "W",
+  "veracity": "VERAX",
+  "veracity_condition": "answers truly of all earthly things (G)",
+  "offices": [
+   {
+    "kind": "PRAETERITA",
+    "witness": "W",
+    "text": "knows things past"
+   },
+   {
+    "kind": "PRAESENTIA",
+    "witness": "W",
+    "text": "knows things present"
+   },
+   {
+    "kind": "FUTURA",
+    "witness": "W",
+    "text": "knows things to come"
+   },
+   {
+    "kind": "OCCULTA",
+    "witness": "W",
+    "text": "reveals hidden things"
+   },
+   {
+    "kind": "THESAURI",
+    "witness": "W",
+    "text": "discovers treasure"
+   },
+   {
+    "kind": "RESPONSA",
+    "witness": "G",
+    "text": "answers truly of earthly things, secret and divine, and of the creation of the world"
+   },
+   {
+    "kind": "FAMILIARES",
+    "witness": "W",
+    "text": "gives good familiars"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "W",
+    "text": "can take a body human or aerial"
+   },
+   {
+    "witness": "S",
+    "text": "his legions partly of the Order of Virtues, partly of Thrones"
+   },
+   {
+    "witness": "G",
+    "text": "owes obedience to his seal, worn in time of action"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(20.) Purson. —The Twentieth Spirit is Purson, a Great King. His appearance is comely, like a Man with a Lion’s face, carrying a cruel Viper in his hand, and riding upon a Bear. Going before him are many Trumpets sounding. He knoweth all things hidden, and can discover Treasure, and tell all things Past, Present, and to Come. He can take a Body either Human or Aërial, and answereth truly of all Earthly things both Secret and Divine, and of the Creation of the World. He bringeth forth good Familiars, and under his Government there be 22 Legions of Spirits, partly of the Order of Virtues and partly of the Order of Thrones. His Mark, Seal, or Character is this, unto the which he oweth obedience, and which thou shalt wear in time of action, etc.",
+  "forma": [
+   "His appearance is comely, like a Man with a Lion’s face, carrying a cruel Viper in his hand, and riding upon a Bear."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.8,
+   1.0
+  ],
+  "fallacia": [
+   0.0,
+   0.1
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.1,
+   0.3
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank king (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity VERAX",
+    "answers truly of all earthly things (G)"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "base"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

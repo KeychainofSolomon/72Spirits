@@ -1,0 +1,96 @@
+{
+ "schema": "72spirits/1",
+ "n": 16,
+ "name": "Zepar",
+ "label": "zepar",
+ "essentia": {
+  "aliases": [],
+  "rank": "duke",
+  "rank_variants": null,
+  "legions": 26,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "CONCORDIA",
+    "witness": "W",
+    "text": "inflames women with love of men"
+   },
+   {
+    "kind": "TRANSMUTATIO",
+    "witness": "W",
+    "text": "changes women's shapes"
+   },
+   {
+    "kind": "MORBUS",
+    "witness": "W",
+    "text": "makes women barren"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "makes them barren"
+   }
+  ],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "G",
+    "text": "obeys his seal when he sees it"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(16.) Zepar. —The Sixteenth Spirit is Zepar. He is a Great Duke, and appeareth in Red Apparel and Armour, like a Soldier. His office is to cause Women to love Men, and to bring them together in love. He also maketh them barren. He governeth 26 Legions of Inferior Spirits, and his Seal is this, which he obeyeth when he seeth it.",
+  "forma": [
+   "He is a Great Duke, and appeareth in Red Apparel and Armour, like a Soldier."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.2,
+   0.4
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "malice: makes them barren"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

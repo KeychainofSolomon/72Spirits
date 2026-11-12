@@ -1,0 +1,92 @@
+{
+ "schema": "72spirits/1",
+ "n": 15,
+ "name": "Eligos",
+ "label": "eligos",
+ "essentia": {
+  "aliases": [
+   "Eligor",
+   "Abigor"
+  ],
+  "rank": "duke",
+  "rank_variants": null,
+  "legions": 60,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "OCCULTA",
+    "witness": "W",
+    "text": "answers of hidden things"
+   },
+   {
+    "kind": "FUTURA",
+    "witness": "W",
+    "text": "knows things to come, and of wars, how soldiers will meet"
+   },
+   {
+    "kind": "CONCORDIA",
+    "witness": "W",
+    "text": "wins the favour of lords and great persons"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [],
+  "quarter": {
+   "value": "East",
+   "witness": "F; A"
+  }
+ },
+ "goetia": {
+  "textus": "(15.) Eligos. —The Fifteenth Spirit in Order is Eligos, a Great Duke, and appeareth in the form of a goodly Knight, carrying a Lance, an Ensign, and a Serpent. He discovereth hidden things, and knoweth things to come; and of Wars, and how the Soldiers will or shall meet. He causeth the Love of Lords and Great Persons. He governeth 60 Legions of Spirits. His Seal is this, etc.",
+  "forma": [
+   "(15.) Eligos. —The Fifteenth Spirit in Order is Eligos, a Great Duke, and appeareth in the form of a goodly Knight, carrying a Lance, an Ensign, and a Serpent."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

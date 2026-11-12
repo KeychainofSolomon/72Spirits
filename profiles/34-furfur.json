@@ -1,0 +1,115 @@
+{
+ "schema": "72spirits/1",
+ "n": 34,
+ "name": "Furfur",
+ "label": "furfur",
+ "essentia": {
+  "aliases": [],
+  "rank": "earl",
+  "rank_variants": null,
+  "legions": 26,
+  "legions_witness": "W",
+  "veracity": "COACTUS",
+  "veracity_condition": "lies in everything unless brought within a triangle (W); true answers of things secret and divine, if commanded (G)",
+  "offices": [
+   {
+    "kind": "CONCORDIA",
+    "witness": "W",
+    "text": "kindles love between man and wife"
+   },
+   {
+    "kind": "TEMPESTAS",
+    "witness": "W",
+    "text": "raises lightning, thunder and blasts, and great tempestuous storms"
+   },
+   {
+    "kind": "RESPONSA",
+    "witness": "G",
+    "text": "true answers of things secret and divine, if commanded"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "lies"
+   },
+   {
+    "witness": "W",
+    "text": "storms"
+   }
+  ],
+  "counterbalances": [
+   {
+    "witness": "W",
+    "text": "bring him within a triangle; there he takes the form of an angel"
+   }
+  ],
+  "notes": [
+   {
+    "witness": "S",
+    "text": "his own triangle figure: Wellcome 110 image 221"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(34.) Furfur. —The Thirty-fourth Spirit is Furfur. He is a Great and Mighty Earl, appearing in the Form of an Hart with a Fiery Tail. He never speaketh truth unless he be compelled, or brought up within a triangle, △. Being therein, he will take upon himself the Form of an Angel. Being bidden, he speaketh with a hoarse voice. Also he will wittingly urge Love between Man and Woman. He can raise Lightnings and Thunders, Blasts, and Great Tempestuous Storms. And he giveth True Answers both of Things Secret and Divine, if commanded. He ruleth over 26 Legions of Spirits. And his Seal is this, etc.",
+  "forma": [
+   "He is a Great and Mighty Earl, appearing in the Form of an Hart with a Fiery Tail.",
+   "He never speaketh truth unless he be compelled, or brought up within a triangle, △.",
+   "Being therein, he will take upon himself the Form of an Angel.",
+   "Being bidden, he speaketh with a hoarse voice."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.4,
+   0.6
+  ],
+  "fallacia": [
+   0.5,
+   0.8
+  ],
+  "fallacia_coactus": [
+   0.0,
+   0.15
+  ],
+  "hostilitas": [
+   0.4,
+   0.6
+  ],
+  "reticentia": [
+   0.1,
+   0.3
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [
+   "bring him within a triangle; there he takes the form of an angel"
+  ],
+  "ex": {
+   "superbia": [
+    "rank earl (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity COACTUS",
+    "lies in everything unless brought within a triangle (W); true answers of things secret and divine, if commanded (G)"
+   ],
+   "hostilitas": [
+    "malice: lies",
+    "malice: storms"
+   ],
+   "reticentia": [
+    "base"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

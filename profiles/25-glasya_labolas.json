@@ -1,0 +1,114 @@
+{
+ "schema": "72spirits/1",
+ "n": 25,
+ "name": "Glasya-Labolas",
+ "label": "glasya_labolas",
+ "essentia": {
+  "aliases": [
+   "Caacrinolaas",
+   "Caassimolar"
+  ],
+  "rank": "president",
+  "rank_variants": "president and earl (G)",
+  "legions": 36,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "teaches all arts in an instant"
+   },
+   {
+    "kind": "PRAETERITA",
+    "witness": "W",
+    "text": "knows things past"
+   },
+   {
+    "kind": "FUTURA",
+    "witness": "W",
+    "text": "knows things to come"
+   },
+   {
+    "kind": "CONCORDIA",
+    "witness": "W",
+    "text": "wins the favour of friends and foes"
+   },
+   {
+    "kind": "INVISIBILITAS",
+    "witness": "W",
+    "text": "makes a man invisible"
+   },
+   {
+    "kind": "NEX",
+    "witness": "W",
+    "text": "captain of murderers; author of bloodshed and manslaughter"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "author of bloodshed and manslaughter"
+   }
+  ],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "S",
+    "text": "'and earl' is a 1904 addition that would change his seal metal; under the rank ruling it does not stand"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(25.) Glasya-Labolas. —The Twenty-fifth Spirit is Glasya-Labolas. He is a Mighty President and Earl, and showeth himself in the form of a Dog with Wings like a Gryphon. He teacheth all Arts and Sciences in an instant, and is an Author of Bloodshed and Manslaughter. He teacheth all things Past, and to Come. If desired he causeth the love both of Friends and of Foes. He can make a Man to go Invisible. And he hath under his command 36 Legions of Spirits. His Seal is this, to be, etc.",
+  "forma": [
+   "He is a Mighty President and Earl, and showeth himself in the form of a Dog with Wings like a Gryphon."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.4,
+   0.6
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.2,
+   0.4
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank president (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "malice: author of bloodshed and manslaughter"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

@@ -1,0 +1,39 @@
+# How the profiles are made
+
+Each profile in `profiles/` has three parts. Only the first is the witnesses' own; the second is worked out from the first by the fixed rules below and is marked `"derived": true`; the third is not kept here at all.
+
+## 1. Essentia: what the witnesses record
+
+- `essentia`: Annulus's Goetia register entry, copied unchanged (rank from Sloane 3825, Weyer's ranks as variants, offices, malice, counterbalances, veracity, each line with its witness: G Goetia, W Weyer, S Sloane). The register's checksum is in `fons.register_sha256`.
+- `goetia.textus`: the spirit's whole entry from the Mathers/Crowley *Goetia* (Project Gutenberg, public domain), verbatim; also kept in `fontes/goetia.json`.
+- `goetia.forma`: the sentences of that entry that describe how he comes: his shape, his riding, his voice.
+
+Nothing in this part is ever changed by the engine.
+
+## 2. Ingenium: ranges derived from part 1
+
+Every value is a range `[low, high]` between 0 and 1. Spiri72 draws a fresh value inside the range for each rite, so a spirit is consistent but not mechanical. `ex` lists what each range was derived from.
+
+1. **superbia** (pride of rank), from the rank, in the Goetia's own order: King 0.8–1.0, Prince 0.7–0.9, Duke 0.6–0.8, Marquis 0.5–0.7, Earl and President 0.4–0.6, Knight 0.3–0.5. Raised by 0.1 when a counterbalance requires him to be honoured (homage, courtesy, head uncovered). A spirit of two ranks takes the first.
+2. **fallacia** (deceit), from Annulus's veracity class: FIDUS 0–0.05, VERAX 0–0.1, TACITUS (the witnesses are silent) 0.1–0.5, COACTUS (lies unless compelled) 0.5–0.8, MENDAX (a liar) 0.7–0.9. COACTUS spirits also carry `fallacia_coactus` 0–0.15, used when their own condition is met.
+3. **hostilitas** (ill will toward the Operator): 0.1 plus 0.2 for each line of recorded malice, ±0.1. Offices that harm others (NEX, MORBUS and the like) are work he can be charged with, not ill will, and do not count.
+4. **reticentia** (withholding): 0.1–0.3; 0.2–0.4 when the witnesses are silent on his truthfulness; 0.6–0.8 when they say he will not be understood or will not answer unless compelled or given offerings.
+5. **ira_adventus**: lines of malice or of the Goetia text that speak of fury or terror.
+6. **cultus**, **munera**, **coercitio**: the counterbalances that ask for honour, gifts, or compulsion, quoted.
+
+## 3. Status: what passes between a spirit and an Operator
+
+Kept by Spiri72 on the Operator's own computer (`spiri72.status\`), never here: how many times he has been called, and how many of his answers the angel found RATUM, SUSPENSUM or IRRITUM.
+
+One rule, an original reading and not the witnesses': a spirit whose words the angel has voided knows he is counted, and his deceit is drawn from the lower half of his own range. It never goes below the range.
+
+## When is a COACTUS spirit compelled?
+
+In Spiri72's own rites every seal stands in the Triangle, Asmoday is called by his name, and Belial has his offering and binding by the Name, so every COACTUS condition is met. In other Annulus programs only the triangle is assumed, since every goetic rite of Annulus has it.
+
+## Rebuilding
+
+```
+python tools/build.py path\to\Annulus\docs\registers\goetia.json path\to\lesser-key.htm
+```
+Then copy `spiritus.json` into Spiri72's `spiritus\` folder.

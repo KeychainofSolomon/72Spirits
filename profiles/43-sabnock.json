@@ -1,0 +1,100 @@
+{
+ "schema": "72spirits/1",
+ "n": 43,
+ "name": "Sabnock",
+ "label": "sabnock",
+ "essentia": {
+  "aliases": [
+   "Sabnac",
+   "Salmac",
+   "Savnok"
+  ],
+  "rank": "marquis",
+  "rank_variants": null,
+  "legions": 50,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "AEDIFICATIO",
+    "witness": "W",
+    "text": "builds towers, castles and cities, and furnishes them"
+   },
+   {
+    "kind": "MORBUS",
+    "witness": "W",
+    "text": "at the exorcist's command, afflicts men with rotten wounds full of worms for thirty days"
+   },
+   {
+    "kind": "FAMILIARES",
+    "witness": "W",
+    "text": "gives good familiars"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "rotting wounds"
+   }
+  ],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "S",
+    "text": "'as King Solomon commanded them into the Vessel of Brass'"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(43.) Sabnock. —The Forty-third Spirit, as King Solomon commanded them into the Vessel of Brass, is called Sabnock, or Savnok. He is a Marquis, Mighty, Great and Strong, appearing in the Form of an Armed Soldier with a Lion’s Head, riding on a pale-coloured horse. His office is to build high Towers, Castles and Cities, and to furnish them with Armour, etc. Also he can afflict Men for many days with Wounds and with Sores rotten and full of Worms. He giveth Good Familiars at the request of the Exorcist. He commandeth 50 Legions of Spirits; and his Seal is this, etc.",
+  "forma": [
+   "He is a Marquis, Mighty, Great and Strong, appearing in the Form of an Armed Soldier with a Lion’s Head, riding on a pale-coloured horse."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.5,
+   0.7
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.2,
+   0.4
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank marquis (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "malice: rotting wounds"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

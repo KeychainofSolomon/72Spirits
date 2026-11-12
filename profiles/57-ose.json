@@ -1,0 +1,111 @@
+{
+ "schema": "72spirits/1",
+ "n": 57,
+ "name": "Ose",
+ "label": "ose",
+ "essentia": {
+  "aliases": [
+   "Oze",
+   "Oso",
+   "Voso",
+   "Osé"
+  ],
+  "rank": "president",
+  "rank_variants": null,
+  "legions": 3,
+  "legions_witness": "S",
+  "veracity": "VERAX",
+  "veracity_condition": "true answers of divine and secret things (G)",
+  "offices": [
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "teaches the liberal arts"
+   },
+   {
+    "kind": "OCCULTA",
+    "witness": "W",
+    "text": "reveals divine and secret things"
+   },
+   {
+    "kind": "ILLUSIO",
+    "witness": "W",
+    "text": "transforms a man's shape so he believes he is what he is not; it lasts one hour (durat ad horam)"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "drives a man to the madness of believing himself what he is not"
+   }
+  ],
+  "counterbalances": [
+   {
+    "witness": "W",
+    "text": "the delusion lasts one hour"
+   }
+  ],
+  "notes": [
+   {
+    "witness": "S",
+    "text": "Weyer gives no count; Sloane 3; 1904 30"
+   }
+  ],
+  "quarter": {
+   "value": "South",
+   "witness": "F"
+  }
+ },
+ "goetia": {
+  "textus": "(57.) Osé , or Voso .—The Fifty-seventh Spirit is Oso, Osé, or Voso. He is a Great President, and appeareth like a Leopard at the first, but after a little time he putteth on the Shape of a Man. His Office is to make one cunning in the Liberal Sciences, and to give True Answers of Divine and Secret Things; also to change a Man into any Shape that the Exorcist pleaseth, so that he that is so changed will not think any other thing than that he is in verity that Creature or Thing he is changed into. He governeth 30 Legions of Spirits, and this is his Seal, etc.",
+  "forma": [
+   "He is a Great President, and appeareth like a Leopard at the first, but after a little time he putteth on the Shape of a Man.",
+   "His Office is to make one cunning in the Liberal Sciences, and to give True Answers of Divine and Secret Things; also to change a Man into any Shape that the Exorcist pleaseth, so that he that is so changed will not think any other thing than that he is in verity that Creature or Thing he is changed into."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.4,
+   0.6
+  ],
+  "fallacia": [
+   0.0,
+   0.1
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.2,
+   0.4
+  ],
+  "reticentia": [
+   0.1,
+   0.3
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank president (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity VERAX",
+    "true answers of divine and secret things (G)"
+   ],
+   "hostilitas": [
+    "malice: drives a man to the madness of believing himself what he is not"
+   ],
+   "reticentia": [
+    "base"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

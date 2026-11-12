@@ -1,0 +1,94 @@
+{
+ "schema": "72spirits/1",
+ "n": 27,
+ "name": "Ronove",
+ "label": "ronove",
+ "essentia": {
+  "aliases": [
+   "Roneve",
+   "Ronové"
+  ],
+  "rank": "marquis/earl",
+  "rank_variants": null,
+  "legions": 19,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "teaches rhetoric"
+   },
+   {
+    "kind": "FAMILIARES",
+    "witness": "W",
+    "text": "gives faithful servants"
+   },
+   {
+    "kind": "LINGUAE",
+    "witness": "W",
+    "text": "gives knowledge of tongues"
+   },
+   {
+    "kind": "CONCORDIA",
+    "witness": "W",
+    "text": "favour of friends and foes"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(27.) Ronové. —The Twenty-seventh Spirit is Ronové. He appeareth in the Form of a Monster. He teacheth the Art of Rhetoric very well and giveth Good Servants, Knowledge of Tongues, and Favours with Friends or Foes. He is a Marquis and Great Earl; and there be under his command 19 Legions of Spirits. His Seal is this, etc.",
+  "forma": [
+   "He appeareth in the Form of a Monster."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.5,
+   0.7
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank marquis/earl (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

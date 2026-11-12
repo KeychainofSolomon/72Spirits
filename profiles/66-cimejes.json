@@ -1,0 +1,100 @@
+{
+ "schema": "72spirits/1",
+ "n": 66,
+ "name": "Cimejes",
+ "label": "cimejes",
+ "essentia": {
+  "aliases": [
+   "Cimeries",
+   "Cimeies",
+   "Kimaris"
+  ],
+  "rank": "marquis",
+  "rank_variants": null,
+  "legions": 20,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "teaches grammar, logic and rhetoric"
+   },
+   {
+    "kind": "THESAURI",
+    "witness": "W",
+    "text": "reveals treasure"
+   },
+   {
+    "kind": "OCCULTA",
+    "witness": "W",
+    "text": "reveals hidden things"
+   },
+   {
+    "kind": "ILLUSIO",
+    "witness": "W",
+    "text": "makes a man seem turned into a soldier"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "W",
+    "text": "rules all spirits in the parts of Africa"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(66.) Cimejes , or Cimeies , or Kimaris .—The Sixty-sixth Spirit is Cimejes, or Cimeies, or Kimaris. He is a Marquis, Mighty, Great, Strong and Powerful, appearing like a Valiant Warrior riding upon a goodly Black Horse. He ruleth over all Spirits in the parts of Africa. His Office is to teach perfectly Grammar, Logic, Rhetoric, and to discover things Lost or Hidden, and Treasures. He governeth 20 Legions of Infernals; and his Seal is this, etc.",
+  "forma": [
+   "He is a Marquis, Mighty, Great, Strong and Powerful, appearing like a Valiant Warrior riding upon a goodly Black Horse."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.5,
+   0.7
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank marquis (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

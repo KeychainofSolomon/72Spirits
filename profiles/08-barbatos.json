@@ -1,0 +1,109 @@
+{
+ "schema": "72spirits/1",
+ "n": 8,
+ "name": "Barbatos",
+ "label": "barbatos",
+ "essentia": {
+  "aliases": [],
+  "rank": "duke",
+  "rank_variants": "earl and duke (W)",
+  "legions": 30,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "LINGUAE",
+    "witness": "W",
+    "text": "understanding of the song of birds and the voices of all creatures"
+   },
+   {
+    "kind": "THESAURI",
+    "witness": "W",
+    "text": "reveals treasure hidden by the enchantments of magicians"
+   },
+   {
+    "kind": "PRAETERITA",
+    "witness": "W",
+    "text": "knows things past"
+   },
+   {
+    "kind": "FUTURA",
+    "witness": "W",
+    "text": "knows things to come"
+   },
+   {
+    "kind": "CONCORDIA",
+    "witness": "W",
+    "text": "reconciles friends and those in power"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "S",
+    "text": "appears when the Sun is in Sagittarius, with four noble kings"
+   },
+   {
+    "witness": "S",
+    "text": "of the Order of Virtues, of which some part he retains still"
+   }
+  ],
+  "quarter": {
+   "value": "East",
+   "witness": "F"
+  }
+ },
+ "goetia": {
+  "textus": "(8.) Barbatos. —The Eighth Spirit is Barbatos. He is a Great Duke, and appeareth when the Sun is in Sagittary, with four noble Kings and their companies of great troops. He giveth understanding of the singing of Birds, and of the Voices of other creatures, such as the barking of Dogs. He breaketh the Hidden Treasures open that have been laid by the Enchantments of Magicians. He is of the Order of Virtues, of which some part he retaineth still; and he knoweth all things Past, and to come, and conciliateth Friends and those that be in Power. He ruleth over 30 Legions of Spirits. His Seal of Obedience is this, the which wear before thee as aforesaid.",
+  "forma": [
+   "He is a Great Duke, and appeareth when the Sun is in Sagittary, with four noble Kings and their companies of great troops.",
+   "He giveth understanding of the singing of Birds, and of the Voices of other creatures, such as the barking of Dogs."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

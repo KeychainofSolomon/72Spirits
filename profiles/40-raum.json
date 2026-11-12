@@ -1,0 +1,116 @@
+{
+ "schema": "72spirits/1",
+ "n": 40,
+ "name": "Raum",
+ "label": "raum",
+ "essentia": {
+  "aliases": [
+   "Räum"
+  ],
+  "rank": "earl",
+  "rank_variants": null,
+  "legions": 30,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "FURTUM",
+    "witness": "W",
+    "text": "steals from royal houses and carries it where commanded"
+   },
+   {
+    "kind": "EVERSIO",
+    "witness": "W",
+    "text": "destroys cities and the dignities of men"
+   },
+   {
+    "kind": "PRAETERITA",
+    "witness": "W",
+    "text": "knows things past"
+   },
+   {
+    "kind": "PRAESENTIA",
+    "witness": "W",
+    "text": "knows things present"
+   },
+   {
+    "kind": "FUTURA",
+    "witness": "W",
+    "text": "knows things to come"
+   },
+   {
+    "kind": "CONCORDIA",
+    "witness": "W",
+    "text": "reconciles friends and foes"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "steals; destroys cities and dignities"
+   }
+  ],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "S",
+    "text": "of the Order of Thrones"
+   }
+  ],
+  "quarter": {
+   "value": "West",
+   "witness": "F"
+  }
+ },
+ "goetia": {
+  "textus": "(40.) Raum. —The Fortieth Spirit is Räum. He is a Great Earl; and appeareth at first in the Form of a Crow, but after the Command of the Exorcist he putteth on Human Shape. His office is to steal Treasures out King’s Houses, and to carry it whither he is commanded, and to destroy Cities and Dignities of Men, and to tell all things, Past, and What Is, and what Will Be; and to cause Love between Friends and Foes. He was of the Order of Thrones. He governeth 30 Legions of Spirits; and his Seal is this, which wear thou as aforesaid.",
+  "forma": [
+   "He is a Great Earl; and appeareth at first in the Form of a Crow, but after the Command of the Exorcist he putteth on Human Shape."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.4,
+   0.6
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.2,
+   0.4
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank earl (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "malice: steals; destroys cities and dignities"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

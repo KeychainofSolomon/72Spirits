@@ -1,0 +1,112 @@
+{
+ "schema": "72spirits/1",
+ "n": 31,
+ "name": "Foras",
+ "label": "foras",
+ "essentia": {
+  "aliases": [
+   "Forras",
+   "Forcas"
+  ],
+  "rank": "president",
+  "rank_variants": null,
+  "legions": 29,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "teaches logic and ethics in all their parts"
+   },
+   {
+    "kind": "VIRTUTES",
+    "witness": "G",
+    "text": "the virtues of herbs and precious stones"
+   },
+   {
+    "kind": "INVISIBILITAS",
+    "witness": "W",
+    "text": "makes a man invisible"
+   },
+   {
+    "kind": "MENS",
+    "witness": "W",
+    "text": "makes a man witty and eloquent"
+   },
+   {
+    "kind": "LONGAEVITAS",
+    "witness": "W",
+    "text": "makes a man live long"
+   },
+   {
+    "kind": "AMISSA",
+    "witness": "W",
+    "text": "recovers things lost"
+   },
+   {
+    "kind": "THESAURI",
+    "witness": "W",
+    "text": "reveals treasure"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [],
+  "quarter": {
+   "value": "South",
+   "witness": "F; A"
+  }
+ },
+ "goetia": {
+  "textus": "(31.) Foras. —The Thirty-first Spirit is Foras. He is a Mighty President, and appeareth in the Form of a Strong Man in Human Shape. He can give the understanding to Men how they may know the Virtues of all Herbs and Precious Stones. He teacheth the Arts of Logic and Ethics in all their parts. If desired he maketh men invisible, and to live long, and to be eloquent. He can discover Treasures and recover things Lost. He ruleth over 29 Legions of Spirits, and his Seal is this, which wear thou, etc.",
+  "forma": [
+   "He is a Mighty President, and appeareth in the Form of a Strong Man in Human Shape."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.4,
+   0.6
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank president (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

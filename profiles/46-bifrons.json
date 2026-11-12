@@ -1,0 +1,99 @@
+{
+ "schema": "72spirits/1",
+ "n": 46,
+ "name": "Bifrons",
+ "label": "bifrons",
+ "essentia": {
+  "aliases": [
+   "Bifrous",
+   "Bifrovs"
+  ],
+  "rank": "earl",
+  "rank_variants": null,
+  "legions": 26,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "astrology, the mansions of the planets, geometry and measurement"
+   },
+   {
+    "kind": "VIRTUTES",
+    "witness": "W",
+    "text": "the virtues of herbs, stones and woods"
+   },
+   {
+    "kind": "MORTUI",
+    "witness": "W",
+    "text": "moves corpses to other places"
+   },
+   {
+    "kind": "ILLUSIO",
+    "witness": "W",
+    "text": "seems to light candles on tombs"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "S",
+    "text": "Sloane and 1904 read 6 legions; Weyer's 26 decides"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(46.) Bifrons. —The Forty-sixth Spirit is called Bifrons, or Bifröus, or Bifrovs. He is an Earl, and appeareth in the Form of a Monster; but after a while, at the Command of the Exorcist, he putteth on the shape of a Man. His Office is to make one knowing in Astrology, Geometry, and other Arts and Sciences. He teacheth the Virtues of Precious Stones and Woods. He changeth Dead Bodies, and putteth them in another place; also he lighteth seeming Candles upon the Graves of the Dead. He hath under his Command 6 Legions of Spirits. His Seal is this, which he will own and submit unto, etc.",
+  "forma": [
+   "He is an Earl, and appeareth in the Form of a Monster; but after a while, at the Command of the Exorcist, he putteth on the shape of a Man."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.4,
+   0.6
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank earl (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

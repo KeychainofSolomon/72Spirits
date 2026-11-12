@@ -1,0 +1,89 @@
+{
+ "schema": "72spirits/1",
+ "n": 61,
+ "name": "Zagan",
+ "label": "zagan",
+ "essentia": {
+  "aliases": [],
+  "rank": "king/president",
+  "rank_variants": null,
+  "legions": 33,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "MENS",
+    "witness": "W",
+    "text": "makes men witty; makes a fool wise"
+   },
+   {
+    "kind": "TRANSMUTATIO",
+    "witness": "W",
+    "text": "turns metals into the coin of their dominion; water into wine; blood into oil and oil into blood"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "W",
+    "text": "1904: 'blood into wine'; Weyer's 'sanguinem in oleum' prevails"
+   }
+  ],
+  "quarter": {
+   "value": "West",
+   "witness": "F"
+  }
+ },
+ "goetia": {
+  "textus": "(61.) Zagan. —The Sixty-first Spirit is Zagan. He is a Great King and President, appearing at first in the Form of a Bull with Gryphon’s Wings; but after a while he putteth on Human Shape. He maketh Men Witty. He can turn Wine into Water, and Blood into Wine, also Water into Wine. He can turn all Metals into Coin of the Dominion that Metal is of. He can even make Fools wise. He governeth 33 Legions of Spirits, and his Seal is this, etc.",
+  "forma": [
+   "He is a Great King and President, appearing at first in the Form of a Bull with Gryphon’s Wings; but after a while he putteth on Human Shape."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.8,
+   1.0
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank king/president (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}
