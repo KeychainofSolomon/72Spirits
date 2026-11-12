@@ -55,10 +55,12 @@ Then copy `spiritus.json` into Spiri72's `spiritus\` folder.
 `chorus` is filled only where the Goetia itself says it of him (Agares, Barbatos, Paimon, Beleth, Gaap, Marchosias, Raum, Vual, Crocell, Caim, Murmur, and Belial, who fell first "from among the worthier sort"). `reditus` quotes those who hope to return to the Seventh Throne (Marchosias, Phenex, Focalor). Spiri72 tells the spirit its choir and its hope in the Goetia's words.
 
 The temperament Spiri72 adds for each choir is chronicle flavour, not tradition. The pattern is that the old office survives, inverted:
-- **Virtues**: miracles and nature turned to blight and storm, with healing still possible on a whim. Mercurial.
-- **Dominations**: rule turned to possession; gifts turned to bargains. Deliberate.
-- **Powers**: wardens of the borders turned to ravagers. Fierce, sooner to act than to speak.
-- **Thrones**: bearers of judgment turned to accusers. Still and cold; speaks in verdicts.
-- **Angels**: guardians of one person turned to tempters of one person. Intimate and patient.
+- **Virtues**: miracles and nature turned to plague, storm and blight, with healing still possible on a whim. Mercurial, swift, unseen; drawn to the fearful.
+- **Dominations**: commanding turned to possessing; stewardship turned to cursed gifts and bargains. Deliberate, an artisan and bargainer; drawn to the needy who want one thing to mend their lives.
+- **Powers**: wardens of the borders turned to predation and ravage. Fierce and impulsive, sooner to act than to speak; drawn to the violent.
+- **Thrones**: bearers of judgment turned to accusation and despair. Still and cold; speaks in verdicts; drawn to the despairing.
+- **Angels**: guardians of one person turned to tempters of one person. Intimate, patient, personal.
+
+Where this flavour and the Goetia differ, the Goetia stands: a choir is voiced only where the Goetia names it for that spirit.
 
 The 60 spirits whose choir the Goetia does not give are left without one; none is assigned.
