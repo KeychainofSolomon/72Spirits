@@ -102,6 +102,10 @@
   "coercitio": [
    "command him first into a triangle"
   ],
+  "naturae": [
+   "VISIO",
+   "SCIENTIA"
+  ],
   "ex": {
    "superbia": [
     "rank marquis (Sloane 3825 via the register)"
@@ -118,6 +122,12 @@
     "base"
    ]
   }
+ },
+ "ordo": {
+  "quarter": null,
+  "quarter_witness": null,
+  "rex": null,
+  "princeps": false
  },
  "fons": {
   "register": "Annulus docs/registers/goetia.json",

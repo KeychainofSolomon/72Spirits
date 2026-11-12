@@ -130,6 +130,10 @@
   ],
   "munera": [],
   "coercitio": [],
+  "naturae": [
+   "SCIENTIA",
+   "LIMEN"
+  ],
   "ex": {
    "superbia": [
     "rank king (Sloane 3825 via the register)",
@@ -147,6 +151,12 @@
     "base"
    ]
   }
+ },
+ "ordo": {
+  "quarter": "East",
+  "quarter_witness": "W, S: under Amaymon",
+  "rex": "Amaymon",
+  "princeps": true
  },
  "fons": {
   "register": "Annulus docs/registers/goetia.json",

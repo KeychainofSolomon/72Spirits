@@ -129,6 +129,10 @@
   "cultus": [],
   "munera": [],
   "coercitio": [],
+  "naturae": [
+   "VINCULUM",
+   "FORMA"
+  ],
   "ex": {
    "superbia": [
     "rank president/prince (Sloane 3825 via the register)"
@@ -145,6 +149,12 @@
     "base"
    ]
   }
+ },
+ "ordo": {
+  "quarter": "East",
+  "quarter_witness": "S: under Amaymon",
+  "rex": "Amaymon",
+  "princeps": true
  },
  "fons": {
   "register": "Annulus docs/registers/goetia.json",

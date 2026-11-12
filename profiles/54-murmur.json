@@ -70,6 +70,10 @@
   "cultus": [],
   "munera": [],
   "coercitio": [],
+  "naturae": [
+   "SCIENTIA",
+   "LIMEN"
+  ],
   "ex": {
    "superbia": [
     "rank duke/earl (Sloane 3825 via the register)"
@@ -84,6 +88,12 @@
     "the witnesses are silent on his truthfulness"
    ]
   }
+ },
+ "ordo": {
+  "quarter": null,
+  "quarter_witness": null,
+  "rex": null,
+  "princeps": false
  },
  "fons": {
   "register": "Annulus docs/registers/goetia.json",

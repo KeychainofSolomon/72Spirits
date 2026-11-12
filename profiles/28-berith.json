@@ -110,6 +110,10 @@
    "the ring of art compels him for one hour",
    "use a ring in calling him, as for Beleth"
   ],
+  "naturae": [
+   "VISIO",
+   "FORMA"
+  ],
   "ex": {
    "superbia": [
     "rank duke (Sloane 3825 via the register)"
@@ -125,6 +129,12 @@
     "base"
    ]
   }
+ },
+ "ordo": {
+  "quarter": "South",
+  "quarter_witness": "F",
+  "rex": "Corson",
+  "princeps": false
  },
  "fons": {
   "register": "Annulus docs/registers/goetia.json",

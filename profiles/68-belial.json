@@ -103,6 +103,9 @@
    "offerings, sacrifices and gifts",
    "constraint by divine power"
   ],
+  "naturae": [
+   "VINCULUM"
+  ],
   "ex": {
    "superbia": [
     "rank king (Sloane 3825 via the register)"
@@ -119,6 +122,12 @@
     "the witnesses say he withholds unless compelled"
    ]
   }
+ },
+ "ordo": {
+  "quarter": "West",
+  "quarter_witness": "F",
+  "rex": "Goap",
+  "princeps": true
  },
  "fons": {
   "register": "Annulus docs/registers/goetia.json",
