@@ -1,0 +1,128 @@
+{
+ "schema": "72spirits/1",
+ "n": 13,
+ "name": "Beleth",
+ "label": "beleth",
+ "essentia": {
+  "aliases": [
+   "Byleth",
+   "Bileth",
+   "Bilet"
+  ],
+  "rank": "king",
+  "rank_variants": null,
+  "legions": 85,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "CONCORDIA",
+    "witness": "W",
+    "text": "causes all love, of men and of women, until the exorcist's desire is fulfilled"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "G",
+    "text": "very furious at his first appearance"
+   },
+   {
+    "witness": "W",
+    "text": "deludes with mad love"
+   }
+  ],
+  "counterbalances": [
+   {
+    "witness": "G",
+    "text": "hold a hazel wand, strike toward South and East, make a triangle without the Circle and command him into it"
+   },
+   {
+    "witness": "G",
+    "text": "if he will not enter, rehearse the Bonds and Charms; then he obeys"
+   },
+   {
+    "witness": "W",
+    "text": "a silver ring on the middle finger of the left hand, held against the face"
+   },
+   {
+    "witness": "W",
+    "text": "if he refuses, the exorcist must show no fear"
+   },
+   {
+    "witness": "G",
+    "text": "receive him courteously and do him homage, for he is a great king"
+   }
+  ],
+  "notes": [
+   {
+    "witness": "G",
+    "text": "of the Order of Powers"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(13.) Beleth. —The Thirteenth Spirit is called Beleth (or Bileth, or Bilet). He is a mighty King and terrible. He rideth on a pale horse with trumpets and other kinds of musical instruments playing before him. He is very furious at his first appearance, that is, while the Exorcist layeth his courage; for to do this he must hold a Hazel Wand in his hand, striking it out towards the South and East Quarters, make a triangle, △, without the Circle, and then command him into it by the Bonds and Charges of Spirits as hereafter followeth. And if he doth not enter into the triangle, △, at your threats, rehearse the Bonds and Charms before him, and then he will yield Obedience and come into it, and do what he is commanded by the Exorcist. Yet he must receive him courteously because he is a Great King, and do homage unto him, as the Kings and Princes do that attend upon him. And thou must have always a Silver Ring on the middle finger of the left hand held against thy face, as they do yet before Amaymon . This Great King Beleth causeth all the love that may be, both of Men and of Women, until the Master Exorcist hath had his desire fulfilled. He is of the Order of Powers, and he governeth 85 Legions of Spirits. His Noble Seal is this, which is to be worn before thee at working.",
+  "forma": [
+   "He rideth on a pale horse with trumpets and other kinds of musical instruments playing before him.",
+   "He is very furious at his first appearance, that is, while the Exorcist layeth his courage; for to do this he must hold a Hazel Wand in his hand, striking it out towards the South and East Quarters, make a triangle, △, without the Circle, and then command him into it by the Bonds and Charges of Spirits as hereafter followeth."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.9,
+   1.0
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.4,
+   0.6
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [
+   "very furious at his first appearance",
+   "He is a mighty King and terrible.",
+   "He is very furious at his first appearance, that is, while the Exorcist layeth his courage; for to do this he must hold a Hazel Wand in his hand, striking it out towards the South and East Quarters, make a triangle, △, without the Circle, and then command him into it by the Bonds and Charges of Spirits as hereafter followeth."
+  ],
+  "cultus": [
+   "receive him courteously and do him homage, for he is a great king"
+  ],
+  "munera": [],
+  "coercitio": [
+   "hold a hazel wand, strike toward South and East, make a triangle without the Circle and command him into it",
+   "if he will not enter, rehearse the Bonds and Charms; then he obeys",
+   "a silver ring on the middle finger of the left hand, held against the face"
+  ],
+  "ex": {
+   "superbia": [
+    "rank king (Sloane 3825 via the register)",
+    "the witnesses require him to be honoured"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "malice: very furious at his first appearance",
+    "malice: deludes with mad love"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

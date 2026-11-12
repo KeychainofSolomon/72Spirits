@@ -1,0 +1,98 @@
+{
+ "schema": "72spirits/1",
+ "n": 22,
+ "name": "Ipos",
+ "label": "ipos",
+ "essentia": {
+  "aliases": [
+   "Ipes",
+   "Ayperos"
+  ],
+  "rank": "earl/prince",
+  "rank_variants": null,
+  "legions": 36,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "PRAETERITA",
+    "witness": "W",
+    "text": "knows things past"
+   },
+   {
+    "kind": "FUTURA",
+    "witness": "W",
+    "text": "knows things to come"
+   },
+   {
+    "kind": "MENS",
+    "witness": "W",
+    "text": "makes a man witty and bold"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "W",
+    "text": "appears angelic, but is in truth foul and obscure"
+   },
+   {
+    "witness": "S",
+    "text": "earl and mighty prince (S); the 1904 rank list omits him from the Earls"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(22.) Ipos. —The Twenty-second Spirit is Ipos. He is an Earl, and a Mighty Prince, and appeareth in the form of an Angel with a Lion’s Head, and a Goose’s Foot, and Hare’s Tail. He knoweth all things Past, Present, and to Come. He maketh men witty and bold. He governeth 36 Legions of Spirits. His Seal is this, which thou shalt wear, etc.",
+  "forma": [
+   "He is an Earl, and a Mighty Prince, and appeareth in the form of an Angel with a Lion’s Head, and a Goose’s Foot, and Hare’s Tail."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.4,
+   0.6
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank earl/prince (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

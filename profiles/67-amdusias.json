@@ -1,0 +1,94 @@
+{
+ "schema": "72spirits/1",
+ "n": 67,
+ "name": "Amdusias",
+ "label": "amdusias",
+ "essentia": {
+  "aliases": [
+   "Amduscias",
+   "Amdukias"
+  ],
+  "rank": "duke",
+  "rank_variants": null,
+  "legions": 29,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "ILLUSIO",
+    "witness": "W",
+    "text": "causes instruments to sound unseen"
+   },
+   {
+    "kind": "TRANSMUTATIO",
+    "witness": "W",
+    "text": "makes trees bow"
+   },
+   {
+    "kind": "FAMILIARES",
+    "witness": "W",
+    "text": "excellent among familiars"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "G",
+    "text": "the music is heard 'not soon or immediately'"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(67.) Amdusias , or Amdukias .—The Sixty-seventh Spirit is Amdusias, or Amdukias. He is a Duke Great and Strong, appearing at first like a Unicorn, but at the request of the Exorcist he standeth before him in Human Shape, causing Trumpets, and all manner of Musical Instruments to be heard, but not soon or immediately. Also he can cause Trees to bend and incline according to the Exorcist’s Will. He giveth Excellent Familiars. He governeth 29 Legions of Spirits. And his Seal is this, etc.",
+  "forma": [
+   "He is a Duke Great and Strong, appearing at first like a Unicorn, but at the request of the Exorcist he standeth before him in Human Shape, causing Trumpets, and all manner of Musical Instruments to be heard, but not soon or immediately."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

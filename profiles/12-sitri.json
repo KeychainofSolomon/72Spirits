@@ -1,0 +1,89 @@
+{
+ "schema": "72spirits/1",
+ "n": 12,
+ "name": "Sitri",
+ "label": "sitri",
+ "essentia": {
+  "aliases": [
+   "Sytry",
+   "Bitru"
+  ],
+  "rank": "prince",
+  "rank_variants": null,
+  "legions": 60,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "CONCORDIA",
+    "witness": "W",
+    "text": "inflames men with women's love and women with men's"
+   },
+   {
+    "kind": "OCCULTA",
+    "witness": "W",
+    "text": "when commanded, willingly discloses the secrets of women, mocking them"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "W",
+    "text": "1904: 'causeth them also to show themselves naked'; Weyer's reading prevails"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(12.) Sitri. —The Twelfth Spirit is Sitri. He is a Great Prince and appeareth at first with a Leopard’s head and the Wings of a Gryphon, but after the command of the Master of the Exorcism he putteth on Human shape, and that very beautiful. He enflameth men with Women’s love, and Women with Men’s love; and causeth them also to show themselves naked if it be desired. He governeth 60 Legions of Spirits. His Seal is this, to be worn as a Lamen before thee, etc.",
+  "forma": [
+   "He is a Great Prince and appeareth at first with a Leopard’s head and the Wings of a Gryphon, but after the command of the Master of the Exorcism he putteth on Human shape, and that very beautiful."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.7,
+   0.9
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank prince (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

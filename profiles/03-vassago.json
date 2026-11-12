@@ -1,0 +1,99 @@
+{
+ "schema": "72spirits/1",
+ "n": 3,
+ "name": "Vassago",
+ "label": "vassago",
+ "essentia": {
+  "aliases": [],
+  "rank": "prince",
+  "rank_variants": null,
+  "legions": 26,
+  "legions_witness": "S",
+  "veracity": "FIDUS",
+  "veracity_condition": "of a good nature (G)",
+  "offices": [
+   {
+    "kind": "PRAETERITA",
+    "witness": "G",
+    "text": "declares things past"
+   },
+   {
+    "kind": "FUTURA",
+    "witness": "G",
+    "text": "declares things to come"
+   },
+   {
+    "kind": "OCCULTA",
+    "witness": "G",
+    "text": "discovers things hidden"
+   },
+   {
+    "kind": "AMISSA",
+    "witness": "G",
+    "text": "discovers things lost"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "W",
+    "text": "absent from Weyer"
+   },
+   {
+    "witness": "G",
+    "text": "of the same nature as Agares"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(3.) Vassago. —The Third Spirit is a Mighty Prince, being of the same nature as Agares. He is called Vassago. This Spirit is of a Good Nature, and his office is to declare things Past and to Come, and to discover all things Hid or Lost. And he governeth 26 Legions of Spirits, and this is his Seal.",
+  "forma": []
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.7,
+   0.9
+  ],
+  "fallacia": [
+   0.0,
+   0.05
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.1,
+   0.3
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank prince (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity FIDUS",
+    "of a good nature (G)"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "base"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

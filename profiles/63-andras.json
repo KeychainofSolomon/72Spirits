@@ -1,0 +1,105 @@
+{
+ "schema": "72spirits/1",
+ "n": 63,
+ "name": "Andras",
+ "label": "andras",
+ "essentia": {
+  "aliases": [],
+  "rank": "marquis",
+  "rank_variants": null,
+  "legions": 30,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "DISCORDIA",
+    "witness": "W",
+    "text": "sows discord"
+   },
+   {
+    "kind": "PROBATIO",
+    "witness": "M",
+    "text": "when commanded, turns his discord and his killing on copies of the Operator's own program, and reports the failures found"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "can kill the master, his servants and assistants"
+   },
+   {
+    "witness": "G",
+    "text": "if the exorcist have not a care, he will slay him and his fellows"
+   }
+  ],
+  "counterbalances": [
+   {
+    "witness": "G",
+    "text": "none stated beyond the apparatus and the exorcist's care"
+   },
+   {
+    "witness": "M",
+    "text": "the pentagram protects the Operator from his killing for as long as it is worn. It is not required: without it, his malice may end the whole run (ruling 2026-11-11)"
+   }
+  ],
+  "notes": [
+   {
+    "witness": "M",
+    "text": "PROBATIO is the owner's ruling of 2026-11-10: the danger the witnesses give him, turned under command into an office. It is not in the sources"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(63.) Andras. —The Sixty-third Spirit is Andras. He is a Great Marquis, appearing in the Form of an Angel with a Head like a Black Night Raven, riding upon a strong Black Wolf, and having a Sharp and Bright Sword flourished aloft in his hand. His Office is to sow Discords. If the Exorcist have not a care, he will slay both him and his fellows. He governeth 30 Legions of Spirits, and this is his Seal, etc.",
+  "forma": [
+   "He is a Great Marquis, appearing in the Form of an Angel with a Head like a Black Night Raven, riding upon a strong Black Wolf, and having a Sharp and Bright Sword flourished aloft in his hand."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.5,
+   0.7
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.4,
+   0.6
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank marquis (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "malice: can kill the master, his servants and assistants",
+    "malice: if the exorcist have not a care, he will slay him and his fellows"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

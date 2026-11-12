@@ -1,0 +1,84 @@
+{
+ "schema": "72spirits/1",
+ "n": 52,
+ "name": "Alloces",
+ "label": "alloces",
+ "essentia": {
+  "aliases": [
+   "Alocer",
+   "Alocas"
+  ],
+  "rank": "duke",
+  "rank_variants": null,
+  "legions": 36,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "makes men wonderful in astronomy and the liberal arts"
+   },
+   {
+    "kind": "FAMILIARES",
+    "witness": "W",
+    "text": "gives good familiars"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(52.) Alloces. —The Fifty-second Spirit is Alloces, or Alocas. He is a Duke, Great, Mighty, and Strong, appearing in the Form of a Soldier riding upon a Great Horse. His Face is like that of a Lion, very Red, and having Flaming Eyes. His Speech is hoarse and very big. His Office is to teach the Art of Astronomy, and all the Liberal Sciences. He bringeth unto thee Good Familiars; also he ruleth over 36 Legions of Spirits. His Seal is this, which, etc.",
+  "forma": [
+   "He is a Duke, Great, Mighty, and Strong, appearing in the Form of a Soldier riding upon a Great Horse."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

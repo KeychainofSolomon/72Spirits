@@ -1,0 +1,108 @@
+{
+ "schema": "72spirits/1",
+ "n": 5,
+ "name": "Marbas",
+ "label": "marbas",
+ "essentia": {
+  "aliases": [
+   "Barbas"
+  ],
+  "rank": "president",
+  "rank_variants": null,
+  "legions": 36,
+  "legions_witness": "W",
+  "veracity": "VERAX",
+  "veracity_condition": "answers truly of things hidden (G)",
+  "offices": [
+   {
+    "kind": "RESPONSA",
+    "witness": "W",
+    "text": "answers of hidden things"
+   },
+   {
+    "kind": "MORBUS",
+    "witness": "W",
+    "text": "inflicts diseases and cures them"
+   },
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "gives wisdom and the mechanical arts"
+   },
+   {
+    "kind": "TRANSMUTATIO",
+    "witness": "W",
+    "text": "changes men into other shapes"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "causes diseases"
+   }
+  ],
+  "counterbalances": [
+   {
+    "witness": "W",
+    "text": "he also cures them (W): the same office reverses the harm"
+   }
+  ],
+  "notes": [],
+  "quarter": {
+   "value": "East",
+   "witness": "F"
+  }
+ },
+ "goetia": {
+  "textus": "(5.) Marbas. —The fifth Spirit is Marbas. He is a Great President, and appeareth at first in the form of a Great Lion, but afterwards, at the request of the Master, he putteth on Human Shape. He answereth truly of things Hidden or Secret. He causeth Diseases and cureth them. Again, he giveth great Wisdom and Knowledge in Mechanical Arts; and can change men into other shapes. He governeth 36 Legions of Spirits. And his Seal is this, which is to be worn as aforesaid.",
+  "forma": [
+   "He is a Great President, and appeareth at first in the form of a Great Lion, but afterwards, at the request of the Master, he putteth on Human Shape.",
+   "Again, he giveth great Wisdom and Knowledge in Mechanical Arts; and can change men into other shapes."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.4,
+   0.6
+  ],
+  "fallacia": [
+   0.0,
+   0.1
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.2,
+   0.4
+  ],
+  "reticentia": [
+   0.1,
+   0.3
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank president (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity VERAX",
+    "answers truly of things hidden (G)"
+   ],
+   "hostilitas": [
+    "malice: causes diseases"
+   ],
+   "reticentia": [
+    "base"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

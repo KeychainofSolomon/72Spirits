@@ -1,0 +1,102 @@
+{
+ "schema": "72spirits/1",
+ "n": 70,
+ "name": "Seere",
+ "label": "seere",
+ "essentia": {
+  "aliases": [
+   "Sear",
+   "Seir"
+  ],
+  "rank": "prince",
+  "rank_variants": null,
+  "legions": 26,
+  "legions_witness": "S",
+  "veracity": "FIDUS",
+  "veracity_condition": "of an indifferent good nature, willing to do anything the exorcist desires (G)",
+  "offices": [
+   {
+    "kind": "VECTIO",
+    "witness": "G",
+    "text": "carries or recarries anything wherever, over the whole Earth in the twinkling of an eye"
+   },
+   {
+    "kind": "OCCULTA",
+    "witness": "G",
+    "text": "gives a true relation of all sorts of theft"
+   },
+   {
+    "kind": "THESAURI",
+    "witness": "G",
+    "text": "and of treasure hid"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "W",
+    "text": "absent from Weyer"
+   },
+   {
+    "witness": "S",
+    "text": "under Amaymon, king of the East"
+   }
+  ],
+  "quarter": {
+   "value": "East",
+   "witness": "S: under Amaymon"
+  }
+ },
+ "goetia": {
+  "textus": "(70.) Seere , Sear , or Seir .—The Seventieth Spirit is Seere, Sear, or Seir. He is a Mighty Prince, and Powerful, under Amaymon , King of the East. He appeareth in the Form of a Beautiful Man, riding upon a Winged Horse. His Office is to go and come; and to bring abundance of things to pass on a sudden, and to carry or recarry anything whither thou wouldest have it to go, or whence thou wouldest have it from. He can pass over the whole Earth in the twinkling of an Eye. He giveth a True relation of all sorts of Theft, and of Treasure hid, and of many other things. He is of an indifferent Good Nature, and is willing to do anything which the Exorcist desireth. He governeth 26 Legions of Spirits. And this his Seal is to be worn, etc.",
+  "forma": [
+   "He appeareth in the Form of a Beautiful Man, riding upon a Winged Horse."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.7,
+   0.9
+  ],
+  "fallacia": [
+   0.0,
+   0.05
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.1,
+   0.3
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank prince (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity FIDUS",
+    "of an indifferent good nature, willing to do anything the exorcist desires (G)"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "base"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

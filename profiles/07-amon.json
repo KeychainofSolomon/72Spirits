@@ -1,0 +1,106 @@
+{
+ "schema": "72spirits/1",
+ "n": 7,
+ "name": "Amon",
+ "label": "amon",
+ "essentia": {
+  "aliases": [
+   "Aamon"
+  ],
+  "rank": "marquis",
+  "rank_variants": null,
+  "legions": 40,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "PRAETERITA",
+    "witness": "W",
+    "text": "knows things past"
+   },
+   {
+    "kind": "FUTURA",
+    "witness": "W",
+    "text": "knows things to come"
+   },
+   {
+    "kind": "CONCORDIA",
+    "witness": "W",
+    "text": "reconciles friends and foes"
+   },
+   {
+    "kind": "DISCORDIA",
+    "witness": "G",
+    "text": "procures feuds"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "G",
+    "text": "procures feuds"
+   }
+  ],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "G",
+    "text": "most stern; vomits flame at first"
+   }
+  ],
+  "quarter": {
+   "value": "East",
+   "witness": "F"
+  }
+ },
+ "goetia": {
+  "textus": "(7.) Amon. —The Seventh Spirit is Amon. He is a Marquis great in power, and most stern. He appeareth like a Wolf with a Serpent’s tail, vomiting out of his mouth flames of fire; but at the command of the Magician he putteth on the shape of a Man with Dog’s teeth beset in a head like a Raven; or else like a Man with a Raven’s head (simply). He telleth all things Past and to Come. He procureth feuds and reconcileth controversies between friends. He governeth 40 Legions of Spirits. His Seal is this which is to be worn as aforesaid, etc.",
+  "forma": [
+   "He appeareth like a Wolf with a Serpent’s tail, vomiting out of his mouth flames of fire; but at the command of the Magician he putteth on the shape of a Man with Dog’s teeth beset in a head like a Raven; or else like a Man with a Raven’s head (simply)."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.5,
+   0.7
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.2,
+   0.4
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank marquis (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "malice: procures feuds"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

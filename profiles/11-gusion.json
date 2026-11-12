@@ -1,0 +1,104 @@
+{
+ "schema": "72spirits/1",
+ "n": 11,
+ "name": "Gusion",
+ "label": "gusion",
+ "essentia": {
+  "aliases": [
+   "Gusoyn"
+  ],
+  "rank": "duke",
+  "rank_variants": null,
+  "legions": 45,
+  "legions_witness": "W",
+  "veracity": "VERAX",
+  "veracity_condition": "answers truly (W)",
+  "offices": [
+   {
+    "kind": "PRAETERITA",
+    "witness": "W",
+    "text": "tells all things past"
+   },
+   {
+    "kind": "PRAESENTIA",
+    "witness": "W",
+    "text": "tells all things present"
+   },
+   {
+    "kind": "FUTURA",
+    "witness": "W",
+    "text": "tells all things to come"
+   },
+   {
+    "kind": "RESPONSA",
+    "witness": "G",
+    "text": "shows the meaning and resolution of all questions"
+   },
+   {
+    "kind": "CONCORDIA",
+    "witness": "W",
+    "text": "reconciles friendships"
+   },
+   {
+    "kind": "DIGNITATES",
+    "witness": "W",
+    "text": "gives honour and dignity"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(11.) Gusion. —The Eleventh Spirit in order is a great and strong Duke, called Gusion. He appeareth like a Xenopilus. He telleth all things, Past, Present, and to Come, and showeth the meaning and resolution of all questions thou mayest ask. He conciliateth and reconcileth friendships, and giveth Honour and Dignity unto any. He ruleth over 40 Legions of Spirits. His Seal is this, the which wear thou as aforesaid.",
+  "forma": [
+   "He appeareth like a Xenopilus."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.0,
+   0.1
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.1,
+   0.3
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity VERAX",
+    "answers truly (W)"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "base"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

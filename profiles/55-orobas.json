@@ -1,0 +1,107 @@
+{
+ "schema": "72spirits/1",
+ "n": 55,
+ "name": "Orobas",
+ "label": "orobas",
+ "essentia": {
+  "aliases": [],
+  "rank": "prince",
+  "rank_variants": null,
+  "legions": 20,
+  "legions_witness": "W",
+  "veracity": "FIDUS",
+  "veracity_condition": "deceives none, permits no tempting (W); very faithful unto the exorcist (G)",
+  "offices": [
+   {
+    "kind": "RESPONSA",
+    "witness": "W",
+    "text": "speaks of divine virtue, the creation, divinity"
+   },
+   {
+    "kind": "PRAETERITA",
+    "witness": "W",
+    "text": "true answers of things past"
+   },
+   {
+    "kind": "PRAESENTIA",
+    "witness": "W",
+    "text": "things present"
+   },
+   {
+    "kind": "FUTURA",
+    "witness": "W",
+    "text": "things to come"
+   },
+   {
+    "kind": "DIGNITATES",
+    "witness": "W",
+    "text": "gives dignities and prelacies"
+   },
+   {
+    "kind": "CONCORDIA",
+    "witness": "W",
+    "text": "favour of friends and foes"
+   },
+   {
+    "kind": "CUSTODIA",
+    "witness": "W",
+    "text": "suffers no spirit to tempt the exorcist"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(55.) Orobas. —The Fifty-fifth Spirit is Orobas. He is a great and Mighty Prince, appearing at first like a Horse; but after the command of the Exorcist he putteth on the Image of a Man. His Office is to discover all things Past, Present, and to Come; also to give Dignities, and Prelacies, and the Favour of Friends and of Foes. He giveth True Answers of Divinity, and of the Creation of the World. He is very faithful unto the Exorcist, and will not suffer him to be tempted of any Spirit. He governeth 20 Legions of Spirits. His Seal is this, etc.",
+  "forma": [
+   "He is a great and Mighty Prince, appearing at first like a Horse; but after the command of the Exorcist he putteth on the Image of a Man."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.7,
+   0.9
+  ],
+  "fallacia": [
+   0.0,
+   0.05
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.1,
+   0.3
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank prince (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity FIDUS",
+    "deceives none, permits no tempting (W); very faithful unto the exorcist (G)"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "base"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "schema": "72spirits/1",
+ "n": 60,
+ "name": "Vapula",
+ "label": "vapula",
+ "essentia": {
+  "aliases": [
+   "Naphula"
+  ],
+  "rank": "duke",
+  "rank_variants": null,
+  "legions": 36,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "makes men subtle in mechanics, philosophy and the sciences of books"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(60.) Vapula , or Naphula .—The Sixtieth Spirit is Vapula, or Naphula. He is a Duke Great, Mighty, and Strong; appearing in the Form of a Lion with Gryphon’s Wings. His Office is to make Men Knowing in all Handcrafts and Professions, also in Philosophy, and other Sciences. He governeth 36 Legions of Spirits, and his Seal or Character is thus made, and thou shalt wear it as aforesaid, etc.",
+  "forma": [
+   "He is a Duke Great, Mighty, and Strong; appearing in the Form of a Lion with Gryphon’s Wings."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

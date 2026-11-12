@@ -1,0 +1,101 @@
+{
+ "schema": "72spirits/1",
+ "n": 26,
+ "name": "Bune",
+ "label": "bune",
+ "essentia": {
+  "aliases": [
+   "Bime",
+   "Bim"
+  ],
+  "rank": "duke",
+  "rank_variants": null,
+  "legions": 30,
+  "legions_witness": "W",
+  "veracity": "VERAX",
+  "veracity_condition": "answers truly (W)",
+  "offices": [
+   {
+    "kind": "MORTUI",
+    "witness": "W",
+    "text": "makes the dead change their place, and spirits gather at the sepulchres"
+   },
+   {
+    "kind": "THESAURI",
+    "witness": "W",
+    "text": "gives riches"
+   },
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "makes a man wise and eloquent"
+   },
+   {
+    "kind": "RESPONSA",
+    "witness": "W",
+    "text": "gives true answers"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "S",
+    "text": "two seals in Sloane 3825; the first is used (ruling)"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(26.) Bune , or Bimé .—The Twenty-sixth Spirit is Buné (or Bim). He is a Strong, Great and Mighty Duke. He appeareth in the form of a Dragon with three heads, one like a Dog, one like a Gryphon, and one like a Man. He speaketh with a high and comely Voice. He changeth the Place of the Dead, and causeth the Spirits which be under him to gather together upon your Sepulchres. He giveth Riches unto a Man, and maketh him Wise and Eloquent. He giveth true Answers unto Demands. And he governeth 30 Legions of Spirits. His Seal is this, unto the which he oweth Obedience. He hath another Seal (which is the first of these, but the last is the best).",
+  "forma": [
+   "He appeareth in the form of a Dragon with three heads, one like a Dog, one like a Gryphon, and one like a Man.",
+   "He speaketh with a high and comely Voice."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.0,
+   0.1
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.1,
+   0.3
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity VERAX",
+    "answers truly (W)"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "base"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

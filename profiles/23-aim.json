@@ -1,0 +1,96 @@
+{
+ "schema": "72spirits/1",
+ "n": 23,
+ "name": "Aim",
+ "label": "aim",
+ "essentia": {
+  "aliases": [
+   "Aym",
+   "Haborym"
+  ],
+  "rank": "duke",
+  "rank_variants": null,
+  "legions": 26,
+  "legions_witness": "W",
+  "veracity": "VERAX",
+  "veracity_condition": "true answers unto private matters (G)",
+  "offices": [
+   {
+    "kind": "MENS",
+    "witness": "W",
+    "text": "makes men witty in every way"
+   },
+   {
+    "kind": "RESPONSA",
+    "witness": "W",
+    "text": "reveals private matters"
+   },
+   {
+    "kind": "EVERSIO",
+    "witness": "W",
+    "text": "sets cities, castles and great places on fire with his firebrand"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "burns cities and castles"
+   }
+  ],
+  "counterbalances": [],
+  "notes": [],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(23.) Aim. —The Twenty-third Spirit is Aim. He is a Great Strong Duke. He appeareth in the form of a very handsome Man in body, but with three Heads; the first, like a Serpent, the second like a Man having two Stars on his Forehead, the third like a Calf. He rideth on a Viper, carrying a Firebrand in his Hand, wherewith he setteth cities, castles, and great Places, on fire. He maketh thee witty in all manner of ways, and giveth true answers unto private matters. He governeth 26 Legions of Inferior Spirits; and his Seal is this, which wear thou as aforesaid, etc.",
+  "forma": [
+   "He appeareth in the form of a very handsome Man in body, but with three Heads; the first, like a Serpent, the second like a Man having two Stars on his Forehead, the third like a Calf.",
+   "He rideth on a Viper, carrying a Firebrand in his Hand, wherewith he setteth cities, castles, and great Places, on fire."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.0,
+   0.1
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.2,
+   0.4
+  ],
+  "reticentia": [
+   0.1,
+   0.3
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity VERAX",
+    "true answers unto private matters (G)"
+   ],
+   "hostilitas": [
+    "malice: burns cities and castles"
+   ],
+   "reticentia": [
+    "base"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

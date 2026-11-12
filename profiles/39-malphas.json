@@ -1,0 +1,99 @@
+{
+ "schema": "72spirits/1",
+ "n": 39,
+ "name": "Malphas",
+ "label": "malphas",
+ "essentia": {
+  "aliases": [],
+  "rank": "president",
+  "rank_variants": null,
+  "legions": 40,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "AEDIFICATIO",
+    "witness": "W",
+    "text": "builds great houses and towers, and summons master craftsmen"
+   },
+   {
+    "kind": "EVERSIO",
+    "witness": "W",
+    "text": "destroys enemies' buildings"
+   },
+   {
+    "kind": "MENS",
+    "witness": "G",
+    "text": "brings to knowledge enemies' desires and thoughts"
+   },
+   {
+    "kind": "FAMILIARES",
+    "witness": "W",
+    "text": "gives good familiars"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "accepts sacrifices but deceives all who make them"
+   }
+  ],
+  "counterbalances": [],
+  "notes": [],
+  "quarter": {
+   "value": "South",
+   "witness": "F"
+  }
+ },
+ "goetia": {
+  "textus": "(39.) Malphas. —The Thirty-ninth Spirit is Malphas. He appeareth at first like a Crow, but after he will put on Human Shape at the request of the Exorcist, and speak with a hoarse Voice. He is a Mighty President and Powerful. He can build Houses and High Towers, and can bring to thy Knowledge Enemies’ Desires and Thoughts, and that which they have done. He giveth Good Familiars. If thou makest a Sacrifice unto him he will receive it kindly and willingly, but he will deceive him that doth it. He governeth 40 Legions of Spirits, and his Seal is this, etc.",
+  "forma": [
+   "He appeareth at first like a Crow, but after he will put on Human Shape at the request of the Exorcist, and speak with a hoarse Voice."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.4,
+   0.6
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.2,
+   0.4
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank president (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "malice: accepts sacrifices but deceives all who make them"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

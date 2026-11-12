@@ -1,0 +1,134 @@
+{
+ "schema": "72spirits/1",
+ "n": 28,
+ "name": "Berith",
+ "label": "berith",
+ "essentia": {
+  "aliases": [
+   "Beale",
+   "Beal",
+   "Bofry",
+   "Bolfry"
+  ],
+  "rank": "duke",
+  "rank_variants": null,
+  "legions": 26,
+  "legions_witness": "W",
+  "veracity": "MENDAX",
+  "veracity_condition": "answers truly of past, present and future, yet is a liar; compelled for one hour by a ring of art (W)",
+  "offices": [
+   {
+    "kind": "PRAETERITA",
+    "witness": "W",
+    "text": "answers of things past"
+   },
+   {
+    "kind": "PRAESENTIA",
+    "witness": "W",
+    "text": "answers of things present"
+   },
+   {
+    "kind": "FUTURA",
+    "witness": "W",
+    "text": "answers of things to come"
+   },
+   {
+    "kind": "TRANSMUTATIO",
+    "witness": "W",
+    "text": "turns all metals into gold"
+   },
+   {
+    "kind": "DIGNITATES",
+    "witness": "W",
+    "text": "gives dignities and confirms them"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "a liar"
+   }
+  ],
+  "counterbalances": [
+   {
+    "witness": "W",
+    "text": "the ring of art compels him for one hour"
+   },
+   {
+    "witness": "G",
+    "text": "use a ring in calling him, as for Beleth"
+   }
+  ],
+  "notes": [
+   {
+    "witness": "S",
+    "text": "two other names given him 'by men of later times'"
+   },
+   {
+    "witness": "S",
+    "text": "great liar"
+   }
+  ],
+  "quarter": {
+   "value": "South",
+   "witness": "F"
+  }
+ },
+ "goetia": {
+  "textus": "(28.) Berith. —The Twenty-eighth Spirit in Order, as Solomon bound them, is named Berith. He is a Mighty, Great, and Terrible Duke. He hath two other Names given unto him by men of later times, viz.: Beale , or Beal , and Bofry or Bolfry . He appeareth in the Form of a Soldier with Red Clothing, riding upon a Red Horse, and having a Crown of Gold upon his head. He giveth true answers, Past, Present, and to Come. Thou must make use of a Ring in calling him forth, as is before spoken of regarding Beleth. He can turn all metals into Gold. He can give Dignities, and can confirm them unto Man. He speaketh with a very clear and subtle Voice. He governeth 26 Legions of Spirits. His Seal is this, etc.",
+  "forma": [
+   "He appeareth in the Form of a Soldier with Red Clothing, riding upon a Red Horse, and having a Crown of Gold upon his head.",
+   "He speaketh with a very clear and subtle Voice."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.7,
+   0.9
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.2,
+   0.4
+  ],
+  "reticentia": [
+   0.1,
+   0.3
+  ],
+  "ira_adventus": [
+   "He is a Mighty, Great, and Terrible Duke."
+  ],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [
+   "the ring of art compels him for one hour",
+   "use a ring in calling him, as for Beleth"
+  ],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity MENDAX",
+    "answers truly of past, present and future, yet is a liar; compelled for one hour by a ring of art (W)"
+   ],
+   "hostilitas": [
+    "malice: a liar"
+   ],
+   "reticentia": [
+    "base"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

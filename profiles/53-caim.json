@@ -1,0 +1,100 @@
+{
+ "schema": "72spirits/1",
+ "n": 53,
+ "name": "Caim",
+ "label": "caim",
+ "essentia": {
+  "aliases": [
+   "Caym",
+   "Camio"
+  ],
+  "rank": "president",
+  "rank_variants": null,
+  "legions": 30,
+  "legions_witness": "W",
+  "veracity": "VERAX",
+  "veracity_condition": "true answers of things to come (G)",
+  "offices": [
+   {
+    "kind": "LINGUAE",
+    "witness": "W",
+    "text": "gives understanding of birds, the lowing of bullocks, the barking of dogs, and the voice of waters"
+   },
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "the best disputer"
+   },
+   {
+    "kind": "FUTURA",
+    "witness": "W",
+    "text": "foretells things to come"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "G",
+    "text": "answers in burning ashes"
+   },
+   {
+    "witness": "S",
+    "text": "was of the Order of Angels"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(53.) Camio or Caim .—The Fifty-third Spirit is Camio, or Caim. He is a Great President, and appeareth in the Form of the Bird called a Thrush at first, but afterwards he putteth on the Shape of a Man carrying in his Hand a Sharp Sword. He seemeth to answer in Burning Ashes, or in Coals of Fire. He is a Good Disputer. His Office is to give unto Men the Understanding of all Birds, Lowing of Bullocks, Barking of Dogs, and other Creatures; and also of the Voice of the Waters. He giveth True Answers of Things to Come. He was of the Order of Angels, but now ruleth over 30 Legions of Spirits Infernal. His Seal is this, which wear thou, etc.",
+  "forma": [
+   "He is a Great President, and appeareth in the Form of the Bird called a Thrush at first, but afterwards he putteth on the Shape of a Man carrying in his Hand a Sharp Sword.",
+   "His Office is to give unto Men the Understanding of all Birds, Lowing of Bullocks, Barking of Dogs, and other Creatures; and also of the Voice of the Waters."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.4,
+   0.6
+  ],
+  "fallacia": [
+   0.0,
+   0.1
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.1,
+   0.3
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank president (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity VERAX",
+    "true answers of things to come (G)"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "base"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

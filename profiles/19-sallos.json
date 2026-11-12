@@ -1,0 +1,84 @@
+{
+ "schema": "72spirits/1",
+ "n": 19,
+ "name": "Sallos",
+ "label": "sallos",
+ "essentia": {
+  "aliases": [
+   "Saleos",
+   "Zaleos"
+  ],
+  "rank": "duke",
+  "rank_variants": "earl (W)",
+  "legions": 30,
+  "legions_witness": "S",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "CONCORDIA",
+    "witness": "G",
+    "text": "causes the love of women to men and men to women"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "W",
+    "text": "appears peaceably, with a ducal crown"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(19.) Sallos. —The Nineteenth Spirit is Sallos (or Saleos). He is a Great and Mighty Duke, and appeareth in the form of a gallant Soldier riding on a Crocodile, with a Ducal Crown on his head, but peaceably. He causeth the Love of Women to Men, and of Men to Women; and governeth 30 Legions of Spirits. His Seal is this, etc.",
+  "forma": [
+   "He is a Great and Mighty Duke, and appeareth in the form of a gallant Soldier riding on a Crocodile, with a Ducal Crown on his head, but peaceably."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

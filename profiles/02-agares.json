@@ -1,0 +1,115 @@
+{
+ "schema": "72spirits/1",
+ "n": 2,
+ "name": "Agares",
+ "label": "agares",
+ "essentia": {
+  "aliases": [
+   "Agreas"
+  ],
+  "rank": "duke",
+  "rank_variants": null,
+  "legions": 31,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "LINGUAE",
+    "witness": "W",
+    "text": "teaches all languages"
+   },
+   {
+    "kind": "VECTIO",
+    "witness": "W",
+    "text": "brings back fugitives"
+   },
+   {
+    "kind": "DISCORDIA",
+    "witness": "W",
+    "text": "makes the steadfast flee"
+   },
+   {
+    "kind": "EVERSIO",
+    "witness": "W",
+    "text": "strips dignities, spiritual and temporal"
+   },
+   {
+    "kind": "TEMPESTAS",
+    "witness": "W",
+    "text": "causes earthquakes"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "destroys dignities; causes earthquakes"
+   }
+  ],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "G",
+    "text": "under the power of the East"
+   },
+   {
+    "witness": "S",
+    "text": "was of the Order of Virtues"
+   }
+  ],
+  "quarter": {
+   "value": "East",
+   "witness": "W, S"
+  }
+ },
+ "goetia": {
+  "textus": "(2.) Agares. —The Second Spirit is a Duke called Agreas, or Agares. He is under the Power of the East, and cometh up in the form of an old fair Man, riding upon a Crocodile, carrying a Goshawk upon his fist, and yet mild in appearance. He maketh them to run that stand still, and bringeth back runaways. He teaches all Languages or Tongues presently. He hath power also to destroy Dignities both Spiritual and Temporal, and causeth Earthquakes. He was of the Order of Virtues. He hath under his government 31 Legions of Spirits. And this is his Seal or Character which thou shalt wear as a Lamen before thee.",
+  "forma": [
+   "He is under the Power of the East, and cometh up in the form of an old fair Man, riding upon a Crocodile, carrying a Goshawk upon his fist, and yet mild in appearance."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.2,
+   0.4
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "malice: destroys dignities; causes earthquakes"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "schema": "72spirits/1",
+ "n": 21,
+ "name": "Marax",
+ "label": "marax",
+ "essentia": {
+  "aliases": [
+   "Morax",
+   "Foraii"
+  ],
+  "rank": "earl/president",
+  "rank_variants": null,
+  "legions": 36,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "makes men skilled in astronomy and the liberal arts"
+   },
+   {
+    "kind": "FAMILIARES",
+    "witness": "W",
+    "text": "gives wise familiars"
+   },
+   {
+    "kind": "VIRTUTES",
+    "witness": "W",
+    "text": "knows the powers of herbs and stones"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "S",
+    "text": "earl and president (S, G); Sloane's legion count may read 30 or 36; Weyer's 36 decides"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(21.) Marax. —The Twenty-first Spirit is Marax. He is a Great Earl and President. He appeareth like a great Bull with a Man’s face. His office is to make Men very knowing in Astronomy, and all other Liberal Sciences; also he can give good Familiars, and wise, knowing the virtues of Herbs and Stones which be precious. He governeth 30 Legions of Spirits, and his Seal is this, which must be made and worn as aforesaid, etc.",
+  "forma": [
+   "He appeareth like a great Bull with a Man’s face."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.4,
+   0.6
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank earl/president (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

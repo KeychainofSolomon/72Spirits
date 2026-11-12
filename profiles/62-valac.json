@@ -1,0 +1,92 @@
+{
+ "schema": "72spirits/1",
+ "n": 62,
+ "name": "Valac",
+ "label": "valac",
+ "essentia": {
+  "aliases": [
+   "Volac",
+   "Valak",
+   "Valu",
+   "Ualac"
+  ],
+  "rank": "president",
+  "rank_variants": null,
+  "legions": 30,
+  "legions_witness": "W",
+  "veracity": "VERAX",
+  "veracity_condition": "true answers of hidden treasures (G)",
+  "offices": [
+   {
+    "kind": "THESAURI",
+    "witness": "W",
+    "text": "reveals hidden treasure"
+   },
+   {
+    "kind": "OCCULTA",
+    "witness": "W",
+    "text": "tells where serpents may be seen, and delivers them powerless to the exorcist"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "S",
+    "text": "1904 reads 38 legions; Weyer and Sloane 30"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(62.) Volac , or Valak , or Valu , or Ualac .—The Sixty-second Spirit is Volac, or Valak, or Valu. He is a President Mighty and Great, and appeareth like a Child with Angel’s Wings, riding on a Two-headed Dragon. His Office is to give True Answers of Hidden Treasures, and to tell where Serpents may be seen. The which he will bring unto the Exorciser without any Force or Strength being by him employed. He governeth 38 Legions of Spirits, and his Seal is thus.",
+  "forma": [
+   "He is a President Mighty and Great, and appeareth like a Child with Angel’s Wings, riding on a Two-headed Dragon."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.4,
+   0.6
+  ],
+  "fallacia": [
+   0.0,
+   0.1
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.1,
+   0.3
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank president (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity VERAX",
+    "true answers of hidden treasures (G)"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "base"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

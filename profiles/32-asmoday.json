@@ -1,0 +1,156 @@
+{
+ "schema": "72spirits/1",
+ "n": 32,
+ "name": "Asmoday",
+ "label": "asmoday",
+ "essentia": {
+  "aliases": [
+   "Sydonay",
+   "Asmodai"
+  ],
+  "rank": "king",
+  "rank_variants": null,
+  "legions": 72,
+  "legions_witness": "W",
+  "veracity": "COACTUS",
+  "veracity_condition": "gives true and full answers when called by his name (G); deceives the exorcist unless he speaks his name (W)",
+  "offices": [
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "teaches geometry, arithmetic, astronomy and mechanics"
+   },
+   {
+    "kind": "TUTELA",
+    "witness": "W",
+    "text": "gives the Ring of Virtues"
+   },
+   {
+    "kind": "INVISIBILITAS",
+    "witness": "W",
+    "text": "makes a man invisible"
+   },
+   {
+    "kind": "THESAURI",
+    "witness": "W",
+    "text": "shows where treasure lies"
+   },
+   {
+    "kind": "CUSTODIA",
+    "witness": "W",
+    "text": "guards the treasure"
+   },
+   {
+    "kind": "RESPONSA",
+    "witness": "G",
+    "text": "true and full answers to demands"
+   },
+   {
+    "kind": "NULLUM",
+    "witness": "G",
+    "text": "makes one invincible"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "deceives the exorcist"
+   },
+   {
+    "witness": "G",
+    "text": "Amaymon will deceive the exorcist and betray all his actions"
+   }
+  ],
+  "counterbalances": [
+   {
+    "witness": "G",
+    "text": "call him abroad, standing, with head uncovered"
+   },
+   {
+    "witness": "G",
+    "text": "ask 'Art thou Asmoday?'; he will not deny it, and bows to the ground"
+   },
+   {
+    "witness": "W",
+    "text": "speak his name"
+   }
+  ],
+  "notes": [
+   {
+    "witness": "G",
+    "text": "first and choicest under the power of Amaymon"
+   },
+   {
+    "witness": "W",
+    "text": "under Amaymon (W: sub potestate Amaymonis)"
+   },
+   {
+    "witness": "W",
+    "text": "the Ring of Virtues is mapped to protection against destruction; the sources name the ring but never say what it does (ruling 2026-11-10: the ring, from Weyer, takes this office over the 1904 edition's 'invincible', which stays NULLUM)"
+   }
+  ],
+  "quarter": {
+   "value": "East",
+   "witness": "W, S: under Amaymon"
+  }
+ },
+ "goetia": {
+  "textus": "(32.) Asmoday. —The Thirty-second Spirit is Asmoday, or Asmodai. He is a Great King, Strong, and Powerful. He appeareth with Three Heads, whereof the first is like a Bull, the second like a Man, and the third like a Ram; he hath also the tail of a Serpent, and from his mouth issue Flames of Fire. His Feet are webbed like those of a Goose. He sitteth upon an Infernal Dragon, and beareth in his hand a Lance with a Banner. He is first and choicest under the Power of Amaymon , he goeth before all other. When the Exorcist hath a mind to call him, let it be abroad, and let him stand on his feet all the time of action, with his Cap or Head-dress off; for if it be on, Amaymon will deceive him and call all his actions to be bewrayed. But as soon as the Exorcist seeth Asmoday in the shape aforesaid, he shall call him by his Name, saying: “Art thou Asmoday?” and he will not deny it, and by-and-by he will bow down unto the ground. He giveth the Ring of Virtues; he teacheth the Arts of Arithmetic, Astronomy, Geometry, and all handicrafts absolutely. He giveth true and full answers unto thy demands. He maketh one Invincible. He showeth the place where Treasures lie, and guardeth it. He, amongst the Legions of Amaymon governeth 72 Legions of Spirits Inferior. His Seal is this which thou must wear as a Lamen upon thy breast, etc.",
+  "forma": [
+   "He appeareth with Three Heads, whereof the first is like a Bull, the second like a Man, and the third like a Ram; he hath also the tail of a Serpent, and from his mouth issue Flames of Fire.",
+   "But as soon as the Exorcist seeth Asmoday in the shape aforesaid, he shall call him by his Name, saying: “Art thou Asmoday?” and he will not deny it, and by-and-by he will bow down unto the ground."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.9,
+   1.0
+  ],
+  "fallacia": [
+   0.5,
+   0.8
+  ],
+  "fallacia_coactus": [
+   0.0,
+   0.15
+  ],
+  "hostilitas": [
+   0.4,
+   0.6
+  ],
+  "reticentia": [
+   0.1,
+   0.3
+  ],
+  "ira_adventus": [],
+  "cultus": [
+   "call him abroad, standing, with head uncovered"
+  ],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank king (Sloane 3825 via the register)",
+    "the witnesses require him to be honoured"
+   ],
+   "fallacia": [
+    "veracity COACTUS",
+    "gives true and full answers when called by his name (G); deceives the exorcist unless he speaks his name (W)"
+   ],
+   "hostilitas": [
+    "malice: deceives the exorcist",
+    "malice: Amaymon will deceive the exorcist and betray all his actions"
+   ],
+   "reticentia": [
+    "base"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

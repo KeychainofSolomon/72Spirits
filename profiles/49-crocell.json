@@ -1,0 +1,105 @@
+{
+ "schema": "72spirits/1",
+ "n": 49,
+ "name": "Crocell",
+ "label": "crocell",
+ "essentia": {
+  "aliases": [
+   "Pucel",
+   "Procel",
+   "Crokel"
+  ],
+  "rank": "duke",
+  "rank_variants": null,
+  "legions": 48,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "OCCULTA",
+    "witness": "W",
+    "text": "speaks obscurely of hidden things"
+   },
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "teaches geometry and the liberal arts"
+   },
+   {
+    "kind": "ILLUSIO",
+    "witness": "W",
+    "text": "makes great noises, and waters roar where there are none"
+   },
+   {
+    "kind": "TRANSMUTATIO",
+    "witness": "W",
+    "text": "warms and cools baths"
+   },
+   {
+    "kind": "OCCULTA",
+    "witness": "G",
+    "text": "discovers baths"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "G",
+    "text": "was of the Order of Potestates before his fall, as he declared to Solomon"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(49.) Crocell. —The Forty-ninth Spirit is Crocell, or Crokel. He appeareth in the Form of an Angel. He is a Duke Great and Strong, speaking something Mystically of Hidden Things. He teacheth the Art of Geometry and the Liberal Sciences. He, at the Command of the Exorcist, will produce Great Noises like the Rushings of many Waters, although there be none. He warmeth Waters, and discovereth Baths. He was of the Order of Potestates, or Powers, before his fall, as he declared unto the King Solomon. He governeth 48 Legions of Spirits. His Seal is this, the which wear thou as aforesaid.",
+  "forma": [
+   "He appeareth in the Form of an Angel."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

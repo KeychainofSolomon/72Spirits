@@ -1,0 +1,98 @@
+{
+ "schema": "72spirits/1",
+ "n": 4,
+ "name": "Samigina",
+ "label": "samigina",
+ "essentia": {
+  "aliases": [
+   "Gamigin",
+   "Gamygyn"
+  ],
+  "rank": "marquis",
+  "rank_variants": null,
+  "legions": 30,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "teaches the liberal arts"
+   },
+   {
+    "kind": "MORTUI",
+    "witness": "W",
+    "text": "brings souls from the sea and from purgatory to appear in aerial bodies and answer"
+   },
+   {
+    "kind": "MORTUI",
+    "witness": "G",
+    "text": "gives account of dead souls that died in sin"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "W",
+    "text": "the souls remain until the exorcist's desire is fulfilled"
+   }
+  ],
+  "quarter": {
+   "value": "West",
+   "witness": "F"
+  }
+ },
+ "goetia": {
+  "textus": "(4.) Samigina , or Gamigin .—The Fourth Spirit is Samigina, a Great Marquis. He appeareth in the form of a little Horse or Ass, and then into Human shape doth he change himself at the request of the Master. He speaketh with a hoarse voice. He ruleth over 30 Legions of Inferiors. He teaches all Liberal Sciences, and giveth account of Dead Souls that died in sin. And his Seal is this, which is to be worn before the Magician when he is Invocator, etc.",
+  "forma": [
+   "He appeareth in the form of a little Horse or Ass, and then into Human shape doth he change himself at the request of the Master.",
+   "He speaketh with a hoarse voice."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.5,
+   0.7
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank marquis (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

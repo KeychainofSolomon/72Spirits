@@ -1,0 +1,94 @@
+{
+ "schema": "72spirits/1",
+ "n": 1,
+ "name": "Bael",
+ "label": "bael",
+ "essentia": {
+  "aliases": [],
+  "rank": "king",
+  "rank_variants": null,
+  "legions": 66,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "INVISIBILITAS",
+    "witness": "W",
+    "text": "makes a man invisible"
+   },
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "makes a man wise"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "G",
+    "text": "king ruling in the East"
+   },
+   {
+    "witness": "S",
+    "text": "his character worn as a lamen, or he will not do homage"
+   }
+  ],
+  "quarter": {
+   "value": "East",
+   "witness": "W, S"
+  }
+ },
+ "goetia": {
+  "textus": "(1.) Bael. —The First Principal Spirit is a King ruling in the East, called Bael. He maketh thee to go Invisible. He ruleth over 66 Legions of Infernal Spirits. He appeareth in divers shapes, sometimes like a Cat, sometimes like a Toad, and sometimes like a Man, and sometimes all these forms at once. He speaketh hoarsely. This is his character which is used to be worn as a Lamen before him who calleth him forth, or else he will not do thee homage.",
+  "forma": [
+   "He appeareth in divers shapes, sometimes like a Cat, sometimes like a Toad, and sometimes like a Man, and sometimes all these forms at once.",
+   "He speaketh hoarsely."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.8,
+   1.0
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank king (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

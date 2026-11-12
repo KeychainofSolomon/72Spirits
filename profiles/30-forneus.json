@@ -1,0 +1,96 @@
+{
+ "schema": "72spirits/1",
+ "n": 30,
+ "name": "Forneus",
+ "label": "forneus",
+ "essentia": {
+  "aliases": [],
+  "rank": "marquis",
+  "rank_variants": null,
+  "legions": 29,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "makes a man admirable in rhetoric"
+   },
+   {
+    "kind": "LINGUAE",
+    "witness": "W",
+    "text": "gives understanding of tongues"
+   },
+   {
+    "kind": "CONCORDIA",
+    "witness": "W",
+    "text": "makes a man loved by friends and foes"
+   },
+   {
+    "kind": "APPELLATIO",
+    "witness": "W",
+    "text": "gives a good name"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "G",
+    "text": "his legions partly of Thrones, partly of Angels"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(30.) Forneus. —The Thirtieth Spirit is Forneus. He is a Mighty and Great Marquis, and appeareth in the Form of a Great Sea-Monster. He teacheth, and maketh men wonderfully knowing in the Art of Rhetoric. He causeth men to have a Good Name, and to have the knowledge and understanding of Tongues. He maketh one to be beloved of his Foes as well as of his Friends. He governeth 29 Legions of Spirits, partly of the Order of Thrones, and partly of that of Angels. His Seal is this, which wear thou, etc.",
+  "forma": [
+   "He is a Mighty and Great Marquis, and appeareth in the Form of a Great Sea-Monster."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.5,
+   0.7
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank marquis (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

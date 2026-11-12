@@ -1,0 +1,93 @@
+{
+ "schema": "72spirits/1",
+ "n": 59,
+ "name": "Orias",
+ "label": "orias",
+ "essentia": {
+  "aliases": [
+   "Oriax"
+  ],
+  "rank": "marquis",
+  "rank_variants": null,
+  "legions": 30,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "VIRTUTES",
+    "witness": "W",
+    "text": "the virtues of the stars and the mansions of the planets"
+   },
+   {
+    "kind": "TRANSMUTATIO",
+    "witness": "W",
+    "text": "transforms men"
+   },
+   {
+    "kind": "DIGNITATES",
+    "witness": "W",
+    "text": "gives dignities, prelacies and their confirmation"
+   },
+   {
+    "kind": "CONCORDIA",
+    "witness": "W",
+    "text": "favour of friends and foes"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(59.) Oriax , or Orias .—The Fifty-ninth Spirit is Oriax, or Orias. He is a Great Marquis, and appeareth in the Form of a Lion, riding upon a Horse Mighty and Strong, with a Serpent’s Tail; and he holdeth in his Right Hand two Great Serpents hissing. His Office is to teach the Virtues of the Stars, and to know the Mansions of the Planets, and how to understand their Virtues. He also transformeth Men, and he giveth Dignities, Prelacies, and Confirmation thereof; also Favour with Friends and with Foes. He doth govern 30 Legions of Spirits; and his Seal is this, etc.",
+  "forma": [
+   "He is a Great Marquis, and appeareth in the Form of a Lion, riding upon a Horse Mighty and Strong, with a Serpent’s Tail; and he holdeth in his Right Hand two Great Serpents hissing."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.5,
+   0.7
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank marquis (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

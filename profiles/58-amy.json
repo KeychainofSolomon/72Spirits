@@ -1,0 +1,98 @@
+{
+ "schema": "72spirits/1",
+ "n": 58,
+ "name": "Amy",
+ "label": "amy",
+ "essentia": {
+  "aliases": [
+   "Avnas",
+   "Hanni"
+  ],
+  "rank": "president",
+  "rank_variants": null,
+  "legions": 36,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "makes men marvellous in astrology and the liberal arts"
+   },
+   {
+    "kind": "FAMILIARES",
+    "witness": "W",
+    "text": "gives excellent familiars"
+   },
+   {
+    "kind": "THESAURI",
+    "witness": "W",
+    "text": "reveals treasure kept by spirits"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "W",
+    "text": "hopes to return to the Seventh Throne after 1200 years; Weyer calls it incredible"
+   },
+   {
+    "witness": "S",
+    "text": "Sloane's legion number is struck through"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(58.) Amy , or Avnas .—The Fifty-eighth Spirit is Amy, or Avnas. He is a Great President, and appeareth at first in the Form of a Flaming Fire; but after a while he putteth on the Shape of a Man. His office is to make one Wonderful Knowing in Astrology and all the Liberal Sciences. He giveth Good Familiars, and can bewray Treasure that is kept by Spirits. He governeth 36 Legions of Spirits, and his Seal is this, etc.",
+  "forma": [
+   "He is a Great President, and appeareth at first in the Form of a Flaming Fire; but after a while he putteth on the Shape of a Man."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.4,
+   0.6
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank president (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

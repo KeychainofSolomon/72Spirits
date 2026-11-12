@@ -1,0 +1,100 @@
+{
+ "schema": "72spirits/1",
+ "n": 72,
+ "name": "Andromalius",
+ "label": "andromalius",
+ "essentia": {
+  "aliases": [],
+  "rank": "earl",
+  "rank_variants": null,
+  "legions": 36,
+  "legions_witness": "S",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "FURTUM",
+    "witness": "G",
+    "text": "brings back the thief and the stolen goods"
+   },
+   {
+    "kind": "OCCULTA",
+    "witness": "G",
+    "text": "discovers all wickedness and underhand dealing"
+   },
+   {
+    "kind": "NEX",
+    "witness": "G",
+    "text": "punishes thieves and other wicked people"
+   },
+   {
+    "kind": "THESAURI",
+    "witness": "G",
+    "text": "discovers hidden treasure"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "W",
+    "text": "absent from Weyer"
+   },
+   {
+    "witness": "S",
+    "text": "his own circle figure: Wellcome 110 image 200"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(72.) Andromalius. —The Seventy-second Spirit in Order is named Andromalius. He is an Earl, Great and Mighty, appearing in the Form of a Man holding a Great Serpent in his Hand. His Office is to bring back both a Thief, and the Goods which be stolen; and to discover all Wickedness, and Underhand Dealing; and to punish all Thieves and other Wicked People and also to discover Treasures that be Hid. He ruleth over 36 Legions of Spirits. His Seal is this, the which wear thou as aforesaid, etc.",
+  "forma": [
+   "He is an Earl, Great and Mighty, appearing in the Form of a Man holding a Great Serpent in his Hand."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.4,
+   0.6
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank earl (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

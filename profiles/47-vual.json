@@ -1,0 +1,106 @@
+{
+ "schema": "72spirits/1",
+ "n": 47,
+ "name": "Vual",
+ "label": "vual",
+ "essentia": {
+  "aliases": [
+   "Uvall",
+   "Voval"
+  ],
+  "rank": "duke",
+  "rank_variants": null,
+  "legions": 37,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "CONCORDIA",
+    "witness": "W",
+    "text": "wins the love of women above all; procures the love of friends and foes"
+   },
+   {
+    "kind": "PRAETERITA",
+    "witness": "W",
+    "text": "things past"
+   },
+   {
+    "kind": "PRAESENTIA",
+    "witness": "W",
+    "text": "things present"
+   },
+   {
+    "kind": "FUTURA",
+    "witness": "W",
+    "text": "things to come"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "W",
+    "text": "of the Order of Potestates"
+   },
+   {
+    "witness": "G",
+    "text": "speaks the Egyptian tongue, but not perfectly"
+   }
+  ],
+  "quarter": {
+   "value": "West",
+   "witness": "F"
+  }
+ },
+ "goetia": {
+  "textus": "(47.) Uvall , Vual , or Voval .—The Forty-seventh Spirit is Uvall, or Vual, or Voval. He is a Duke, Great, Mighty, and Strong; and appeareth in the Form of a Mighty Dromedary at the first, but after a while at the Command of the Exorcist he putteth on Human Shape, and speaketh the Egyptian Tongue, but not perfectly. His Office is to procure the Love of Woman, and to tell Things Past, Present, and to Come. He also procureth Friendship between Friends and Foes. He was of the Order of Potestates or Powers. He governeth 37 Legions of Spirits, and his Seal is this, to be made and worn before thee, etc.",
+  "forma": [
+   "He is a Duke, Great, Mighty, and Strong; and appeareth in the Form of a Mighty Dromedary at the first, but after a while at the Command of the Exorcist he putteth on Human Shape, and speaketh the Egyptian Tongue, but not perfectly."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

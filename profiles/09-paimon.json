@@ -1,0 +1,123 @@
+{
+ "schema": "72spirits/1",
+ "n": 9,
+ "name": "Paimon",
+ "label": "paimon",
+ "essentia": {
+  "aliases": [
+   "Paymon"
+  ],
+  "rank": "king",
+  "rank_variants": null,
+  "legions": 200,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "teaches all arts and sciences and secret things"
+   },
+   {
+    "kind": "OCCULTA",
+    "witness": "G",
+    "text": "what the Earth is, what holds it up in the waters, what Mind is and where"
+   },
+   {
+    "kind": "DIGNITATES",
+    "witness": "W",
+    "text": "gives dignities and confirms them"
+   },
+   {
+    "kind": "MENS",
+    "witness": "W",
+    "text": "binds men and makes them subject to the magician"
+   },
+   {
+    "kind": "FAMILIARES",
+    "witness": "W",
+    "text": "gives good familiars"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [
+   {
+    "witness": "G",
+    "text": "his speech cannot be understood unless he is compelled"
+   }
+  ],
+  "notes": [
+   {
+    "witness": "W",
+    "text": "the exorcist must face north (Aquilonem, W; Scot: northwest). 1904: 'towards the West', a variant"
+   },
+   {
+    "witness": "G",
+    "text": "very obedient unto Lucifer; of the Order of Dominations"
+   },
+   {
+    "witness": "W",
+    "text": "called alone, he must be made an offering; the kings Labal and Abalim attend him, with 25 legions"
+   },
+   {
+    "witness": "G",
+    "text": "roars at his first coming"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(9) Paimon. —The Ninth Spirit in this Order is Paimon, a Great King, and very obedient unto Lucifer . He appeareth in the form of a Man sitting upon a Dromedary with a Crown most glorious upon his head. There goeth before him also an Host of Spirits, like Men with Trumpets and well sounding Cymbals, and all other sorts of Musical Instruments. He hath a great Voice, and roareth at his first coming, and his speech is such that the Magician cannot well understand unless he can compel him. This Spirit can teach all Arts and Sciences, and other secret things. He can discover unto thee what the Earth is, and what holdeth it up in the Waters; and what Mind is, and where it is; or any other thing thou mayest desire to know. He giveth Dignity, and confirmeth the same. He bindeth or maketh any man subject unto the Magician if he so desire it. He giveth good Familiars, and such as can teach all Arts. He is to be observed towards the West. He is of the Order of Dominations. He hath under him 200 Legions of Spirits, and part of them are of the Order of Angels, and the other part of Potentates. Now if thou callest this Spirit Paimon alone, thou must make him some offering; and there will attend him two Kings called Labal and Abalim , and also other Spirits who be of the Order of Potentates in his Host, and 25 Legions. And those Spirits which be subject unto them are not always with them unless the Magician do compel them. His Character is this which must be worn as a Lamen before thee, etc.",
+  "forma": [
+   "He appeareth in the form of a Man sitting upon a Dromedary with a Crown most glorious upon his head.",
+   "He hath a great Voice, and roareth at his first coming, and his speech is such that the Magician cannot well understand unless he can compel him."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.8,
+   1.0
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.6,
+   0.8
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [
+   "his speech cannot be understood unless he is compelled"
+  ],
+  "ex": {
+   "superbia": [
+    "rank king (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses say he withholds unless compelled"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

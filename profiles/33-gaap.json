@@ -1,0 +1,154 @@
+{
+ "schema": "72spirits/1",
+ "n": 33,
+ "name": "Gaap",
+ "label": "gaap",
+ "essentia": {
+  "aliases": [
+   "Tap"
+  ],
+  "rank": "president/prince",
+  "rank_variants": null,
+  "legions": 66,
+  "legions_witness": "W",
+  "veracity": "VERAX",
+  "veracity_condition": "answers truly (W)",
+  "offices": [
+   {
+    "kind": "MENS",
+    "witness": "G",
+    "text": "makes men insensible or ignorant"
+   },
+   {
+    "kind": "DOCTRINA",
+    "witness": "G",
+    "text": "makes them knowing in philosophy and the liberal sciences"
+   },
+   {
+    "kind": "CONCORDIA",
+    "witness": "W",
+    "text": "causes love"
+   },
+   {
+    "kind": "DISCORDIA",
+    "witness": "W",
+    "text": "causes hatred"
+   },
+   {
+    "kind": "INVISIBILITAS",
+    "witness": "W",
+    "text": "causes invisibility"
+   },
+   {
+    "kind": "CONSECRATIO",
+    "witness": "G",
+    "text": "teaches to consecrate the things of Amaymon's dominion"
+   },
+   {
+    "kind": "FAMILIARES",
+    "witness": "W",
+    "text": "delivers familiars from the custody of other magicians"
+   },
+   {
+    "kind": "PRAETERITA",
+    "witness": "W",
+    "text": "answers of things past"
+   },
+   {
+    "kind": "FUTURA",
+    "witness": "W",
+    "text": "answers of things to come"
+   },
+   {
+    "kind": "VECTIO",
+    "witness": "G",
+    "text": "carries men speedily from one kingdom to another"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "G",
+    "text": "makes men insensible or ignorant"
+   },
+   {
+    "witness": "W",
+    "text": "causes hatred"
+   }
+  ],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "W",
+    "text": "receives offerings and burnt sacrifices"
+   },
+   {
+    "witness": "S",
+    "text": "guides four great kings; appears when the Sun is in the southern signs"
+   },
+   {
+    "witness": "S",
+    "text": "of the Order of Potentates"
+   },
+   {
+    "witness": "W",
+    "text": "Weyer adds that the art ascribed to him is falsely ascribed to Solomon"
+   }
+  ],
+  "quarter": {
+   "value": "East",
+   "witness": "S: under Amaymon"
+  }
+ },
+ "goetia": {
+  "textus": "(33.) Gaap. —The Thirty-third Spirit is Gäap. He is a Great President and a Mighty Prince. He appeareth when the Sun is in some of the Southern Signs, in a Human Shape, going before Four Great and Mighty Kings, as if he were a Guide to conduct them along on their way. His Office is to make men Insensible or Ignorant; as also in Philosophy to make them Knowing, and in all the Liberal Sciences. He can cause Love or Hatred, also he can teach thee to consecrate those things that belong to the Dominion of Amaymon his King. He can deliver Familiars out of the Custody of other Magicians, and answereth truly and perfectly of things Past, Present, and to Come. He can carry and re-carry men very speedily from one Kingdom to another, at the Will and Pleasure of the Exorcist. He ruleth over 66 Legions of Spirits, and he was of the Order of Potentates. His Seal is this to be made and to be worn as aforesaid, etc.",
+  "forma": [
+   "He appeareth when the Sun is in some of the Southern Signs, in a Human Shape, going before Four Great and Mighty Kings, as if he were a Guide to conduct them along on their way."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.4,
+   0.6
+  ],
+  "fallacia": [
+   0.0,
+   0.1
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.4,
+   0.6
+  ],
+  "reticentia": [
+   0.1,
+   0.3
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank president/prince (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity VERAX",
+    "answers truly (W)"
+   ],
+   "hostilitas": [
+    "malice: makes men insensible or ignorant",
+    "malice: causes hatred"
+   ],
+   "reticentia": [
+    "base"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

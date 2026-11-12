@@ -1,0 +1,127 @@
+{
+ "schema": "72spirits/1",
+ "n": 44,
+ "name": "Shax",
+ "label": "shax",
+ "essentia": {
+  "aliases": [
+   "Chax",
+   "Scox",
+   "Shaz",
+   "Shass"
+  ],
+  "rank": "marquis",
+  "rank_variants": "duke and marquis (W)",
+  "legions": 30,
+  "legions_witness": "W",
+  "veracity": "COACTUS",
+  "veracity_condition": "lies unless brought into a triangle (W, G)",
+  "offices": [
+   {
+    "kind": "MENS",
+    "witness": "W",
+    "text": "takes away sight, hearing and understanding"
+   },
+   {
+    "kind": "FURTUM",
+    "witness": "W",
+    "text": "steals money from royal houses, and returns it in 1200 years"
+   },
+   {
+    "kind": "VECTIO",
+    "witness": "W",
+    "text": "fetches horses or any other thing"
+   },
+   {
+    "kind": "OCCULTA",
+    "witness": "G",
+    "text": "discovers all hidden things not kept by wicked spirits"
+   },
+   {
+    "kind": "FAMILIARES",
+    "witness": "G",
+    "text": "gives good familiars, sometimes"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "promises obedience but does not fully keep it"
+   },
+   {
+    "witness": "W",
+    "text": "lies"
+   }
+  ],
+  "counterbalances": [
+   {
+    "witness": "G",
+    "text": "command him first into a triangle"
+   }
+  ],
+  "notes": [
+   {
+    "witness": "S",
+    "text": "two seals in Sloane 3825; the left is struck through"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(44.) Shax. —The Forty-fourth Spirit is Shax, or Shaz (or Shass). He is a Great Marquis and appeareth in the Form of a Stock-Dove, speaking with a voice hoarse, but yet subtle. His Office is to take away the Sight, Hearing, or Understanding of any Man or Woman at the command of the Exorcist; and to steal money out of the houses of Kings, and to carry it again in 1,200 years. If commanded he will fetch Horses at the request of the Exorcist, or any other thing. But he must first be commanded into a Triangle, △, or else he will deceive him, and tell him many Lies. He can discover all things that are Hidden, and not kept by Wicked Spirits. He giveth good Familiars, sometimes. He governeth 30 Legions of Spirits, and his Seal is this, etc.",
+  "forma": [
+   "He is a Great Marquis and appeareth in the Form of a Stock-Dove, speaking with a voice hoarse, but yet subtle."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.5,
+   0.7
+  ],
+  "fallacia": [
+   0.5,
+   0.8
+  ],
+  "fallacia_coactus": [
+   0.0,
+   0.15
+  ],
+  "hostilitas": [
+   0.4,
+   0.6
+  ],
+  "reticentia": [
+   0.1,
+   0.3
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [
+   "command him first into a triangle"
+  ],
+  "ex": {
+   "superbia": [
+    "rank marquis (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity COACTUS",
+    "lies unless brought into a triangle (W, G)"
+   ],
+   "hostilitas": [
+    "malice: promises obedience but does not fully keep it",
+    "malice: lies"
+   ],
+   "reticentia": [
+    "base"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

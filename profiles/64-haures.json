@@ -1,0 +1,132 @@
+{
+ "schema": "72spirits/1",
+ "n": 64,
+ "name": "Haures",
+ "label": "haures",
+ "essentia": {
+  "aliases": [
+   "Flauros",
+   "Hauras",
+   "Havres"
+  ],
+  "rank": "duke",
+  "rank_variants": null,
+  "legions": 20,
+  "legions_witness": "W",
+  "veracity": "COACTUS",
+  "veracity_condition": "true answers of past, present and future; lies and deceives if not commanded into a triangle (G; Weyer's text lacks the negation, resolved by internal evidence)",
+  "offices": [
+   {
+    "kind": "PRAETERITA",
+    "witness": "W",
+    "text": "answers of things past"
+   },
+   {
+    "kind": "PRAESENTIA",
+    "witness": "W",
+    "text": "things present"
+   },
+   {
+    "kind": "FUTURA",
+    "witness": "W",
+    "text": "things to come"
+   },
+   {
+    "kind": "RESPONSA",
+    "witness": "W",
+    "text": "speaks of divinity, the creation, and how he and the spirits fell"
+   },
+   {
+    "kind": "NEX",
+    "witness": "W",
+    "text": "compelled by divine power, burns up the exorcist's adversaries"
+   },
+   {
+    "kind": "CUSTODIA",
+    "witness": "W",
+    "text": "will not let the exorcist be tempted, if commanded"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "lies and deceives"
+   }
+  ],
+  "counterbalances": [
+   {
+    "witness": "G",
+    "text": "command him into a triangle"
+   }
+  ],
+  "notes": [
+   {
+    "witness": "S",
+    "text": "Sloane 3825 spells him Flauros"
+   },
+   {
+    "witness": "S",
+    "text": "Sloane and 1904 read 36 legions; Weyer's 20 decides"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(64.) Haures , or Hauras , or Havres , or Flauros .—The Sixty-fourth Spirit is Haures, or Hauras, or Havres, or Flauros. He is a Great Duke, and appeareth at first like a Leopard, Mighty, Terrible, and Strong, but after a while, at the Command of the Exorcist, he putteth on Human Shape with Eyes Flaming and Fiery, and a most Terrible Countenance. He giveth True Answers of all things, Present, Past, and to Come. But if he be not commanded into a Triangle, △, he will Lie in all these Things, and deceive and beguile the Exorcist in these things, or in such and such business. He will, lastly, talk of the Creation of the World, and of Divinity, and of how he and other Spirits fell. He destroyeth and burneth up those who be the Enemies of the Exorcist should he so desire it; also he will not suffer him to be tempted by any other Spirit or otherwise. He governeth 36 Legions of Spirits, and his Seal is this, to be worn as a Lamen, etc.",
+  "forma": [
+   "He is a Great Duke, and appeareth at first like a Leopard, Mighty, Terrible, and Strong, but after a while, at the Command of the Exorcist, he putteth on Human Shape with Eyes Flaming and Fiery, and a most Terrible Countenance."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.6,
+   0.8
+  ],
+  "fallacia": [
+   0.5,
+   0.8
+  ],
+  "fallacia_coactus": [
+   0.0,
+   0.15
+  ],
+  "hostilitas": [
+   0.2,
+   0.4
+  ],
+  "reticentia": [
+   0.1,
+   0.3
+  ],
+  "ira_adventus": [
+   "He is a Great Duke, and appeareth at first like a Leopard, Mighty, Terrible, and Strong, but after a while, at the Command of the Exorcist, he putteth on Human Shape with Eyes Flaming and Fiery, and a most Terrible Countenance."
+  ],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [
+   "command him into a triangle"
+  ],
+  "ex": {
+   "superbia": [
+    "rank duke (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity COACTUS",
+    "true answers of past, present and future; lies and deceives if not commanded into a triangle (G; Weyer's text lacks the negation, resolved by internal evidence)"
+   ],
+   "hostilitas": [
+    "malice: lies and deceives"
+   ],
+   "reticentia": [
+    "base"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

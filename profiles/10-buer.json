@@ -1,0 +1,97 @@
+{
+ "schema": "72spirits/1",
+ "n": 10,
+ "name": "Buer",
+ "label": "buer",
+ "essentia": {
+  "aliases": [],
+  "rank": "president",
+  "rank_variants": null,
+  "legions": 50,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "teaches philosophy, moral and natural, and logic"
+   },
+   {
+    "kind": "VIRTUTES",
+    "witness": "W",
+    "text": "the virtues of all herbs and plants"
+   },
+   {
+    "kind": "MORBUS",
+    "witness": "W",
+    "text": "heals all distempers"
+   },
+   {
+    "kind": "FAMILIARES",
+    "witness": "W",
+    "text": "gives good familiars"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [
+   {
+    "witness": "S",
+    "text": "appears in Sagittarius, when the Sun is there"
+   }
+  ],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(10.) Buer. —The Tenth Spirit is Buer, a Great President. He appeareth in Sagittary, and that is his shape when the Sun is there. He teaches Philosophy, both Moral and Natural, and the Logic Art, and also the Virtues of all Herbs and Plants. He healeth all distempers in man, and giveth good Familiars. He governeth 50 Legions of Spirits, and his Character of obedience is this, which thou must wear when thou callest him forth unto appearance.",
+  "forma": [
+   "He appeareth in Sagittary, and that is his shape when the Sun is there.",
+   "He governeth 50 Legions of Spirits, and his Character of obedience is this, which thou must wear when thou callest him forth unto appearance."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.4,
+   0.6
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank president (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

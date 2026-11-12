@@ -1,0 +1,82 @@
+{
+ "schema": "72spirits/1",
+ "n": 48,
+ "name": "Haagenti",
+ "label": "haagenti",
+ "essentia": {
+  "aliases": [],
+  "rank": "president",
+  "rank_variants": null,
+  "legions": 33,
+  "legions_witness": "W",
+  "veracity": "TACITUS",
+  "veracity_condition": null,
+  "offices": [
+   {
+    "kind": "DOCTRINA",
+    "witness": "W",
+    "text": "makes men wise in everything"
+   },
+   {
+    "kind": "TRANSMUTATIO",
+    "witness": "W",
+    "text": "transmutes all metals into gold; water into wine and back"
+   }
+  ],
+  "malice": [],
+  "counterbalances": [],
+  "notes": [],
+  "quarter": null
+ },
+ "goetia": {
+  "textus": "(48.) Haagenti. —The Forty-eighth Spirit is Haagenti. He is a President, appearing in the Form of a Mighty Bull with Gryphon’s Wings. This is at first, but after, at the Command of the Exorcist he putteth on Human Shape. His Office is to make Men wise, and to instruct them in divers things; also to Transmute all Metals into Gold; and to change Wine into Water, and Water into Wine. He governeth 33 Legions of Spirits, and his Seal is this, etc.",
+  "forma": [
+   "He is a President, appearing in the Form of a Mighty Bull with Gryphon’s Wings.",
+   "This is at first, but after, at the Command of the Exorcist he putteth on Human Shape."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.4,
+   0.6
+  ],
+  "fallacia": [
+   0.1,
+   0.5
+  ],
+  "fallacia_coactus": null,
+  "hostilitas": [
+   0.0,
+   0.2
+  ],
+  "reticentia": [
+   0.2,
+   0.4
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [],
+  "coercitio": [],
+  "ex": {
+   "superbia": [
+    "rank president (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity TACITUS"
+   ],
+   "hostilitas": [
+    "no malice recorded"
+   ],
+   "reticentia": [
+    "the witnesses are silent on his truthfulness"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}

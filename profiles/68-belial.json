@@ -1,0 +1,128 @@
+{
+ "schema": "72spirits/1",
+ "n": 68,
+ "name": "Belial",
+ "label": "belial",
+ "essentia": {
+  "aliases": [],
+  "rank": "king",
+  "rank_variants": null,
+  "legions": 80,
+  "legions_witness": "W",
+  "veracity": "COACTUS",
+  "veracity_condition": "gives true answers only while compelled by divine power, and lies otherwise; must have offerings, sacrifices and gifts, or he will not answer truly (W, G)",
+  "offices": [
+   {
+    "kind": "DIGNITATES",
+    "witness": "W",
+    "text": "distributes presentations and senatorships"
+   },
+   {
+    "kind": "CONCORDIA",
+    "witness": "W",
+    "text": "favour of friends and foes"
+   },
+   {
+    "kind": "FAMILIARES",
+    "witness": "W",
+    "text": "gives excellent familiars"
+   }
+  ],
+  "malice": [
+   {
+    "witness": "W",
+    "text": "lies"
+   },
+   {
+    "witness": "S",
+    "text": "tarries not one hour in the truth unless constrained by divine power"
+   }
+  ],
+  "counterbalances": [
+   {
+    "witness": "G",
+    "text": "offerings, sacrifices and gifts"
+   },
+   {
+    "witness": "W",
+    "text": "constraint by divine power"
+   },
+   {
+    "witness": "W",
+    "text": "if he refuses to submit, read the bond of spirits"
+   }
+  ],
+  "notes": [
+   {
+    "witness": "S",
+    "text": "created next after Lucifer; fell first among the worthier sort before Michael"
+   }
+  ],
+  "quarter": {
+   "value": "West",
+   "witness": "F"
+  }
+ },
+ "goetia": {
+  "textus": "(68.) Belial. —The Sixty-eighth Spirit is Belial. He is a Mighty and a Powerful King, and was created next after Lucifer . He appeareth in the Form of Two Beautiful Angels sitting in a Chariot of Fire. He speaketh with a Comely Voice, and declareth that he fell first from among the worthier sort, that were before Michael, and other Heavenly Angels. His Office is to distribute Presentations and Senatorships, etc.; and to cause favour of Friends and of Foes. He giveth excellent Familiars, and governeth 50 Legions of Spirits. Note well that this King Belial must have Offerings, Sacrifices and Gifts presented unto him by the Exorcist, or else he will not give True Answers unto his Demands. But then he tarrieth not one hour in the Truth, unless he be constrained by Divine Power. And his Seal is this, which is to be worn as aforesaid, etc.",
+  "forma": [
+   "He appeareth in the Form of Two Beautiful Angels sitting in a Chariot of Fire.",
+   "He speaketh with a Comely Voice, and declareth that he fell first from among the worthier sort, that were before Michael, and other Heavenly Angels."
+  ]
+ },
+ "ingenium": {
+  "derived": true,
+  "rules": "DERIVATION.md",
+  "superbia": [
+   0.8,
+   1.0
+  ],
+  "fallacia": [
+   0.5,
+   0.8
+  ],
+  "fallacia_coactus": [
+   0.0,
+   0.15
+  ],
+  "hostilitas": [
+   0.4,
+   0.6
+  ],
+  "reticentia": [
+   0.6,
+   0.8
+  ],
+  "ira_adventus": [],
+  "cultus": [],
+  "munera": [
+   "offerings, sacrifices and gifts",
+   "gives true answers only while compelled by divine power, and lies otherwise; must have offerings, sacrifices and gifts, or he will not answer truly (W, G)"
+  ],
+  "coercitio": [
+   "offerings, sacrifices and gifts",
+   "constraint by divine power"
+  ],
+  "ex": {
+   "superbia": [
+    "rank king (Sloane 3825 via the register)"
+   ],
+   "fallacia": [
+    "veracity COACTUS",
+    "gives true answers only while compelled by divine power, and lies otherwise; must have offerings, sacrifices and gifts, or he will not answer truly (W, G)"
+   ],
+   "hostilitas": [
+    "malice: lies",
+    "malice: tarries not one hour in the truth unless constrained by divine power"
+   ],
+   "reticentia": [
+    "the witnesses say he withholds unless compelled"
+   ]
+  }
+ },
+ "fons": {
+  "register": "Annulus docs/registers/goetia.json",
+  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "goetia": "fontes/goetia.json"
+ }
+}
