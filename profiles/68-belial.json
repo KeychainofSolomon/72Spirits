@@ -129,6 +129,14 @@
   "rex": "Goap",
   "princeps": true
  },
+ "chorus": {
+  "chori": [],
+  "testimonium": [
+   "He speaketh with a Comely Voice, and declareth that he fell first from among the worthier sort, that were before Michael, and other Heavenly Angels."
+  ],
+  "reditus": [],
+  "witness": "G"
+ },
  "fons": {
   "register": "Annulus docs/registers/goetia.json",
   "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",

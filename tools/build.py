@@ -90,6 +90,25 @@ def ordo(e, reges):
     }
 
 
+CHORI = [("Virtues", "VIRTUTES"), ("Dominations", "DOMINATIONES"), ("Potentates", "POTESTATES"),
+         ("Potestates", "POTESTATES"), ("Powers", "POTESTATES"), ("Thrones", "THRONI"), ("Angels", "ANGELI")]
+
+
+def chorus(text):
+    """His former choir, only where the Goetia says it of him (DERIVATION.md section 4)."""
+    out, said = [], []
+    for sent in sentences(text):
+        if re.search(r"\b[Hh]e (?:was|is) (?:partly )?of the Order|fell first from among", sent):
+            said.append(sent)
+            if "fell first" in sent:
+                continue
+            for word, choir in CHORI:
+                if word in sent and choir not in out:
+                    out.append(choir)
+    reditus = [x for x in sentences(text) if re.search(r"hopes? (?:also )?to return", x)]
+    return {"chori": out, "testimonium": said, "reditus": reditus, "witness": "G"}
+
+
 def clamp(lo, hi):
     return [round(max(0.0, lo), 2), round(min(1.0, hi), 2)]
 
@@ -235,6 +254,7 @@ def main():
             "goetia": {"textus": g, "forma": forma(g)},
             "ingenium": derive(e, g),
             "ordo": ordo(e, reges),
+            "chorus": chorus(g),
             "fons": fons,
         }
         (pdir / f"{n:02d}-{p['label']}.json").write_text(

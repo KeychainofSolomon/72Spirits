@@ -49,3 +49,16 @@ In Spiri72's own rites every seal stands in the Triangle, Asmoday is called by h
 python tools/build.py path\to\Annulus\docs\registers\goetia.json path\to\lesser-key.htm
 ```
 Then copy `spiritus.json` into Spiri72's `spiritus\` folder.
+
+## 4. Chorus: the order he fell from
+
+`chorus` is filled only where the Goetia itself says it of him (Agares, Barbatos, Paimon, Beleth, Gaap, Marchosias, Raum, Vual, Crocell, Caim, Murmur, and Belial, who fell first "from among the worthier sort"). `reditus` quotes those who hope to return to the Seventh Throne (Marchosias, Phenex, Focalor). Spiri72 tells the spirit its choir and its hope in the Goetia's words.
+
+The temperament Spiri72 adds for each choir is chronicle flavour, not tradition. The pattern is that the old office survives, inverted:
+- **Virtues**: miracles and nature turned to blight and storm, with healing still possible on a whim. Mercurial.
+- **Dominations**: rule turned to possession; gifts turned to bargains. Deliberate.
+- **Powers**: wardens of the borders turned to ravagers. Fierce, sooner to act than to speak.
+- **Thrones**: bearers of judgment turned to accusers. Still and cold; speaks in verdicts.
+- **Angels**: guardians of one person turned to tempters of one person. Intimate and patient.
+
+The 60 spirits whose choir the Goetia does not give are left without one; none is assigned.
