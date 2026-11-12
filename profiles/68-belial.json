@@ -135,7 +135,14 @@
    "He speaketh with a Comely Voice, and declareth that he fell first from among the worthier sort, that were before Michael, and other Heavenly Angels."
   ],
   "reditus": [],
-  "witness": "G"
+  "witness": "G",
+  "coniectura": {
+   "chorus": "CHERUBIM",
+   "ex": [
+    "Weyer: created next after Lucifer, and fell first among the worthier sort that went before Michael",
+    "Lucifer a cherub: Ezekiel 28:14, the anointed cherub; Aquinas, Summa I q.63 a.7"
+   ]
+  }
  },
  "fons": {
   "register": "Annulus docs/registers/goetia.json",

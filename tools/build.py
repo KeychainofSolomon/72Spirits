@@ -94,7 +94,21 @@ CHORI = [("Virtues", "VIRTUTES"), ("Dominations", "DOMINATIONES"), ("Potentates"
          ("Potestates", "POTESTATES"), ("Powers", "POTESTATES"), ("Thrones", "THRONI"), ("Angels", "ANGELI")]
 
 
-def chorus(text):
+# Choirs no witness gives, read from what the witnesses do say (DERIVATION.md
+# section 4, "Readings"). An original reading, never the witnesses'; the
+# spirit is never told it as fact, only that it may let it show.
+CONIECTURA = {
+    68: {
+        "chorus": "CHERUBIM",
+        "ex": [
+            "Weyer: created next after Lucifer, and fell first among the worthier sort that went before Michael",
+            "Lucifer a cherub: Ezekiel 28:14, the anointed cherub; Aquinas, Summa I q.63 a.7",
+        ],
+    },
+}
+
+
+def chorus(text, n):
     """His former choir, only where the Goetia says it of him (DERIVATION.md section 4)."""
     out, said = [], []
     for sent in sentences(text):
@@ -106,7 +120,8 @@ def chorus(text):
                 if word in sent and choir not in out:
                     out.append(choir)
     reditus = [x for x in sentences(text) if re.search(r"hopes? (?:also )?to return", x)]
-    return {"chori": out, "testimonium": said, "reditus": reditus, "witness": "G"}
+    return {"chori": out, "testimonium": said, "reditus": reditus, "witness": "G",
+            "coniectura": CONIECTURA.get(n)}
 
 
 def clamp(lo, hi):
@@ -254,7 +269,7 @@ def main():
             "goetia": {"textus": g, "forma": forma(g)},
             "ingenium": derive(e, g),
             "ordo": ordo(e, reges),
-            "chorus": chorus(g),
+            "chorus": chorus(g, n),
             "fons": fons,
         }
         (pdir / f"{n:02d}-{p['label']}.json").write_text(
