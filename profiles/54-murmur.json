@@ -95,6 +95,17 @@
   "rex": null,
   "princeps": false
  },
+ "chorus": {
+  "chori": [
+   "THRONI",
+   "ANGELI"
+  ],
+  "testimonium": [
+   "He was partly of the Order of Thrones, and partly of that of Angels."
+  ],
+  "reditus": [],
+  "witness": "G"
+ },
  "fons": {
   "register": "Annulus docs/registers/goetia.json",
   "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",

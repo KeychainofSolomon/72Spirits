@@ -156,6 +156,16 @@
   "rex": "Amaymon",
   "princeps": true
  },
+ "chorus": {
+  "chori": [
+   "POTESTATES"
+  ],
+  "testimonium": [
+   "He ruleth over 66 Legions of Spirits, and he was of the Order of Potentates."
+  ],
+  "reditus": [],
+  "witness": "G"
+ },
  "fons": {
   "register": "Annulus docs/registers/goetia.json",
   "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
