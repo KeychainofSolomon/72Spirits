@@ -19,7 +19,12 @@
    {
     "kind": "DOCTRINA",
     "witness": "W",
-    "text": "teaches grammar, logic and rhetoric"
+    "text": "teaches grammar, logic and rhetoric",
+    "artes": [
+     "grammatica",
+     "dialectica",
+     "rhetorica"
+    ]
    },
    {
     "kind": "THESAURI",
@@ -111,7 +116,7 @@
  },
  "fons": {
   "register": "Annulus docs/registers/goetia.json",
-  "register_sha256": "3638a1b806bf24e4419ff45bd251e3f840147de429ed00bd2bebf78021ea749c",
+  "register_sha256": "2cf89b7e0192c9cfee3307c66892f4f168b673c48abb7b60e0a3e387f40e9557",
   "goetia": "fontes/goetia.json"
  }
 }
